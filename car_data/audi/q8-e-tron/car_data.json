@@ -1,0 +1,32 @@
+{
+    "name": "Audi Q8 e-tron",
+    "link": "https://www.carwale.com/audi-cars/q8-e-tron/",
+    "description": "The price of Audi Q8 e-tron, a 5 seater SUV, ranges from Rs. 1.15  - 1.27 Crore. It is available in 2 variants and a choice of 1 transmission: Automatic. Q8 e-tron has an NCAP rating of 5 stars and comes with 8 airbags. Audi Q8 e-tron is available in 9 colours. Users have reported a driving range of 536.5 Km for Q8 e-tron.",
+    "variants": [
+        {
+            "variant_name": "Q8 e-tron 50 95 kWh, Electric, Automatic, 491 Km",
+            "price": "Rs. 1.15 Crore"
+        },
+        {
+            "variant_name": "Q8 e-tron 55 114 kWh, Electric, Automatic, 582 Km",
+            "price": "Rs. 1.27 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.21 Crore onwards",
+        "Hyderabad": "Rs. 1.38 Crore onwards",
+        "Bangalore": "Rs. 1.21 Crore onwards",
+        "Mumbai": "Rs. 1.21 Crore onwards",
+        "Ahmedabad": "Rs. 1.28 Crore onwards",
+        "Kolkata": "Rs. 1.21 Crore onwards",
+        "Chennai": "Rs. 1.21 Crore onwards",
+        "Pune": "Rs. 1.21 Crore onwards",
+        "Lucknow": "Rs. 1.21 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Electric",
+        "DriveTrain": "AWD",
+        "Acceleration": "5.6 to 6 seconds",
+        "Top Speed": "200 kmph"
+    }
+}

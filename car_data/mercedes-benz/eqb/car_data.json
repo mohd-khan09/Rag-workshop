@@ -1,0 +1,32 @@
+{
+    "name": "Mercedes-Benz EQB",
+    "link": "https://www.carwale.com/mercedes-benz-cars/eqb/",
+    "description": "The price of Mercedes-Benz EQB, a 7 seater SUV, ranges from Rs. 74.50  - 77.50 Lakh. It is available in 2 variants and a choice of 1 transmission: Automatic. EQB has an NCAP rating of 5 stars and comes with 7 airbags. Mercedes-Benz EQB is available in 5 colours. Users have reported a driving range of 423 Km for EQB.",
+    "variants": [
+        {
+            "variant_name": "EQB 300 4MATIC 66.5 kWh, Electric, Automatic, 423 Km",
+            "price": "Rs. 74.50 Lakh"
+        },
+        {
+            "variant_name": "EQB 350 4MATIC 66.5 kWh, Electric, Automatic, 423 Km",
+            "price": "Rs. 77.50 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 78.70 Lakh onwards",
+        "Hyderabad": "Rs. 90.41 Lakh onwards",
+        "Bangalore": "Rs. 78.67 Lakh onwards",
+        "Mumbai": "Rs. 78.66 Lakh onwards",
+        "Ahmedabad": "Rs. 83.13 Lakh onwards",
+        "Kolkata": "Rs. 78.66 Lakh onwards",
+        "Chennai": "Rs. 78.67 Lakh onwards",
+        "Pune": "Rs. 78.66 Lakh onwards",
+        "Lucknow": "Rs. 78.58 Lakh onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Electric",
+        "DriveTrain": "AWD",
+        "Acceleration": "6.2 to 8 seconds",
+        "Top Speed": "160 kmph"
+    }
+}

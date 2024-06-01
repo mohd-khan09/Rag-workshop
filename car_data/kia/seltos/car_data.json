@@ -1,0 +1,123 @@
+{
+    "name": "Kia Seltos",
+    "link": "https://www.carwale.com/kia-cars/seltos/",
+    "description": "The price of Kia Seltos, a 5 seater SUV, ranges from Rs. 10.90  - 20.35 Lakh. It is available in 26 variants, with engine options ranging from 1482 to 1497 cc and a choice of 3 transmissions: Manual, Automatic and Clutchless Manual (IMT). Seltos has an NCAP rating of 3 stars and comes with 6 airbags. Kia Seltos is available in 11 colours. Users have reported a mileage of 17 to 20.7 kmpl for Seltos.",
+    "variants": [
+        {
+            "variant_name": "Seltos HTE 1.5 Petrol MT 1497 cc, Petrol, Manual, 17 kmpl, 113 bhp",
+            "price": "Rs. 10.90 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTK 1.5 Petrol MT 1497 cc, Petrol, Manual, 17 kmpl, 113 bhp",
+            "price": "Rs. 12.24 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTE 1.5 Diesel MT 1493 cc, Diesel, Manual, 20.7 kmpl, 114 bhp",
+            "price": "Rs. 12.35 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTK 1.5 Diesel MT 1493 cc, Diesel, Manual, 20.7 kmpl, 114 bhp",
+            "price": "Rs. 13.68 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTK Plus 1.5 Petrol MT 1497 cc, Petrol, Manual, 17 kmpl, 113 bhp",
+            "price": "Rs. 14.06 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTX 1.5 Petrol MT 1497 cc, Petrol, Manual, 17 kmpl, 113 bhp",
+            "price": "Rs. 15.30 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTK Plus 1.5 Petrol CVT 1497 cc, Petrol, Automatic (CVT), 17.7 kmpl, 113 bhp",
+            "price": "Rs. 15.42 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTK Plus 1.5 Turbo Petrol iMT 1482 cc, Petrol, Clutchless Manual (IMT), 17.7 kmpl, 158 bhp",
+            "price": "Rs. 15.45 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTK Plus 1.5 Diesel MT 1493 cc, Diesel, Manual, 20.7 kmpl, 114 bhp",
+            "price": "Rs. 15.55 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTX 1.5 Petrol CVT 1497 cc, Petrol, Automatic (CVT), 17.7 kmpl, 113 bhp",
+            "price": "Rs. 16.72 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTX 1.5 Diesel MT 1493 cc, Diesel, Manual, 20.7 kmpl, 114 bhp",
+            "price": "Rs. 16.80 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTK Plus 1.5 Diesel AT 1493 cc, Diesel, Automatic (TC), 19.1 kmpl, 114 bhp",
+            "price": "Rs. 16.92 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTX 1.5 Diesel iMT 1493 cc, Diesel, Clutchless Manual (IMT), 20.7 kmpl, 114 bhp",
+            "price": "Rs. 17.00 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTX 1.5 Diesel AT 1493 cc, Diesel, Automatic (TC), 19.1 kmpl, 114 bhp",
+            "price": "Rs. 18.22 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTX Plus 1.5 Diesel MT 1493 cc, Diesel, Manual, 20.7 kmpl, 114 bhp",
+            "price": "Rs. 18.70 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTX Plus 1.5 Turbo Petrol iMT 1482 cc, Petrol, Clutchless Manual (IMT), 17.7 kmpl, 158 bhp",
+            "price": "Rs. 18.73 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTX Plus 1.5 Diesel iMT 1493 cc, Diesel, Clutchless Manual (IMT), 20.7 kmpl, 114 bhp",
+            "price": "Rs. 18.95 Lakh"
+        },
+        {
+            "variant_name": "Seltos GTX Plus (S) 1.5 Diesel AT 1493 cc, Diesel, Automatic (TC), 19.1 kmpl, 114 bhp",
+            "price": "Rs. 19.40 Lakh"
+        },
+        {
+            "variant_name": "Seltos GTX Plus (S) 1.5 Turbo Petrol DCT 1482 cc, Petrol, Automatic (DCT), 17.9 kmpl, 158 bhp",
+            "price": "Rs. 19.40 Lakh"
+        },
+        {
+            "variant_name": "Seltos X Line (S) 1.5 Turbo Petrol DCT 1482 cc, Petrol, Automatic (DCT), 17.9 kmpl, 158 bhp",
+            "price": "Rs. 19.65 Lakh"
+        },
+        {
+            "variant_name": "Seltos X Line (S) 1.5 Diesel AT 1493 cc, Diesel, Automatic (TC), 19.1 kmpl, 114 bhp",
+            "price": "Rs. 19.65 Lakh"
+        },
+        {
+            "variant_name": "Seltos HTX Plus 1.5 Turbo Petrol DCT 1482 cc, Petrol, Automatic (DCT), 17.9 kmpl, 158 bhp",
+            "price": "Rs. 19.73 Lakh"
+        },
+        {
+            "variant_name": "Seltos GTX Plus 1.5 Turbo Petrol DCT 1482 cc, Petrol, Automatic (DCT), 17.9 kmpl, 158 bhp",
+            "price": "Rs. 20.00 Lakh"
+        },
+        {
+            "variant_name": "Seltos GTX Plus 1.5 Diesel AT 1493 cc, Diesel, Automatic (TC), 19.1 kmpl, 114 bhp",
+            "price": "Rs. 20.00 Lakh"
+        },
+        {
+            "variant_name": "Seltos X Line 1.5 Turbo Petrol DCT 1482 cc, Petrol, Automatic (DCT), 17.9 kmpl, 158 bhp",
+            "price": "Rs. 20.35 Lakh"
+        },
+        {
+            "variant_name": "Seltos X Line 1.5 Diesel AT 1493 cc, Diesel, Automatic (TC), 19.1 kmpl, 114 bhp",
+            "price": "Rs. 20.35 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 12.71 Lakh onwards",
+        "Hyderabad": "Rs. 13.37 Lakh onwards",
+        "Bangalore": "Rs. 13.60 Lakh onwards",
+        "Mumbai": "Rs. 12.98 Lakh onwards",
+        "Ahmedabad": "Rs. 12.18 Lakh onwards",
+        "Kolkata": "Rs. 12.74 Lakh onwards",
+        "Chennai": "Rs. 13.52 Lakh onwards",
+        "Pune": "Rs. 12.91 Lakh onwards",
+        "Lucknow": "Rs. 12.64 Lakh onwards"
+    },
+    "specifications": {}
+}

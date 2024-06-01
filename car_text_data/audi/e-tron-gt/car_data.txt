@@ -1,0 +1,6 @@
+name: Audi e-tron GT
+link: https://www.carwale.com/audi-cars/e-tron-gt/
+description: The price of Audi e-tron GT, a 5 seater Sedan, ranges from Rs. 1.72  - 1.95 Crore. It is available in 2 variants and a choice of 1 transmission: Automatic. e-tron GT has an NCAP rating of 5 stars and comes with 7 airbags. Audi e-tron GT is available in 9 colours. Users have reported a driving range of 394.5 Km for e-tron GT.
+variants: [{'variant_name': 'e-tron GT S 93.4 kWh, Electric, Automatic, 388 Km', 'price': 'Rs. 1.72 Crore'}, {'variant_name': 'e-tron GT RS 93.4 kWh, Electric, Automatic, 401 Km', 'price': 'Rs. 1.95 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 1.81 Crore onwards', 'Hyderabad': 'Rs. 2.06 Crore onwards', 'Bangalore': 'Rs. 1.81 Crore onwards', 'Mumbai': 'Rs. 1.81 Crore onwards', 'Ahmedabad': 'Rs. 1.91 Crore onwards', 'Kolkata': 'Rs. 1.81 Crore onwards', 'Chennai': 'Rs. 1.85 Crore onwards', 'Pune': 'Rs. 1.81 Crore onwards', 'Lucknow': 'Rs. 1.81 Crore onwards'}
+specifications: {'Fuel Type': 'Electric', 'DriveTrain': 'AWD', 'Acceleration': '3.3 to 4.1 seconds', 'Top Speed': '245 to 250 kmph'}

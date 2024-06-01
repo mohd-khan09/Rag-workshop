@@ -1,0 +1,74 @@
+{
+    "name": "Toyota Innova Hycross",
+    "link": "https://www.carwale.com/toyota-cars/innova-hycross/",
+    "description": "The price of Toyota Innova Hycross, a 7 seater MUV, ranges from Rs. 19.77  - 30.98 Lakh. It is available in 12 variants, with an engine of 1987 cc and a choice of 1 transmission: Automatic. Innova Hycross comes with 6 airbags. Toyota Innova Hycross is available in 7 colours. Users have reported a mileage of 16.13 to 23.24 kmpl for Innova Hycross.",
+    "variants": [
+        {
+            "variant_name": "Innova Hycross GX 7 STR 1987 cc, Petrol, Automatic (CVT), 16.13 kmpl, 173 bhp",
+            "price": "Rs. 19.77 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross GX 8 STR 1987 cc, Petrol, Automatic (CVT), 16.13 kmpl, 173 bhp",
+            "price": "Rs. 19.82 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross GX Limited Edition 7 STR 1987 cc, Petrol, Automatic (CVT), 16.13 kmpl, 173 bhp",
+            "price": "Rs. 20.07 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross GX Limited Edition 8 STR 1987 cc, Petrol, Automatic (CVT), 16.13 kmpl, 173 bhp",
+            "price": "Rs. 20.12 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross GX (O) 8 STR 1987 cc, Petrol, Automatic (CVT), 16.13 kmpl, 173 bhp",
+            "price": "Rs. 20.99 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross GX (O) 7 STR 1987 cc, Petrol, Automatic (CVT), 16.13 kmpl, 173 bhp",
+            "price": "Rs. 21.13 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross VX Hybrid 7 STR 1987 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 23.24 kmpl, 184 bhp",
+            "price": "Rs. 25.97 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross VX Hybrid 8 STR 1987 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 23.24 kmpl, 184 bhp",
+            "price": "Rs. 26.02 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross VX (O) Hybrid 7 STR 1987 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 23.24 kmpl, 184 bhp",
+            "price": "Rs. 27.94 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross VX (O) Hybrid 8 STR 1987 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 23.24 kmpl, 184 bhp",
+            "price": "Rs. 27.99 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross ZX Hybrid 7 STR 1987 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 23.24 kmpl, 184 bhp",
+            "price": "Rs. 30.34 Lakh"
+        },
+        {
+            "variant_name": "Innova Hycross ZX (O) Hybrid 7 STR 1987 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 23.24 kmpl, 184 bhp",
+            "price": "Rs. 30.98 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 23.07 Lakh onwards",
+        "Hyderabad": "Rs. 25.01 Lakh onwards",
+        "Bangalore": "Rs. 24.85 Lakh onwards",
+        "Mumbai": "Rs. 23.61 Lakh onwards",
+        "Ahmedabad": "Rs. 21.98 Lakh onwards",
+        "Kolkata": "Rs. 23.07 Lakh onwards",
+        "Chennai": "Rs. 24.63 Lakh onwards",
+        "Pune": "Rs. 23.75 Lakh onwards",
+        "Lucknow": "Rs. 23.10 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 19.77 Lakh onwards",
+        "Mileage": "16.13 to 23.24 kmpl",
+        "Engine": "1987 cc",
+        "Fuel Type": "Petrol & Hybrid",
+        "Transmission": "Automatic",
+        "Seating Capacity": "7 & 8 Seater"
+    }
+}

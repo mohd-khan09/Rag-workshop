@@ -1,0 +1,6 @@
+name: BYD Seal
+link: https://www.carwale.com/byd-cars/seal/
+description: The price of BYD Seal , a 5 seater SUV, ranges from Rs. 41.00  - 53.00 Lakh. It is available in 3 variants and a choice of 1 transmission: Automatic. Seal has an NCAP rating of 5 stars and comes with 8 airbags. BYD Seal  has a ground clearance of 145 mm  and is available in 4 colours. Users have reported a driving range of 580 Km for Seal .
+variants: [{'variant_name': 'Seal Dynamic 61.44 kWh, Electric, Automatic, 510 Km', 'price': 'Rs. 41.00 Lakh'}, {'variant_name': 'Seal Premium 82.56 kWh, Electric, Automatic, 650 Km', 'price': 'Rs. 45.55 Lakh'}, {'variant_name': 'Seal Performance 82.56 kWh, Electric, Automatic, 580 Km', 'price': 'Rs. 53.00 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 43.35 Lakh onwards', 'Hyderabad': 'Rs. 49.46 Lakh onwards', 'Bangalore': 'Rs. 43.32 Lakh onwards', 'Mumbai': 'Rs. 43.32 Lakh onwards', 'Ahmedabad': 'Rs. 45.77 Lakh onwards', 'Kolkata': 'Rs. 43.31 Lakh onwards', 'Chennai': 'Rs. 43.33 Lakh onwards', 'Pune': 'Rs. 43.32 Lakh onwards', 'Lucknow': 'Rs. 43.27 Lakh onwards'}
+specifications: {'Fuel Type': 'Electric', 'DriveTrain': 'RWD & AWD', 'Acceleration': '3.8 to 7.5 seconds'}

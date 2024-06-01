@@ -1,0 +1,37 @@
+{
+    "name": "BMW X3",
+    "link": "https://www.carwale.com/bmw-cars/x3/",
+    "description": "The price of BMW X3, a 5 seater SUV, ranges from Rs. 68.50  - 74.90 Lakh. It is available in 3 variants, with an engine of 1995 cc and a choice of 1 transmission: Automatic. X3 has an NCAP rating of 5 stars and comes with 6 airbags. BMW X3 has a ground clearance of 204 mm  and is available in 6 colours. Users have reported a mileage of 16.55 kmpl for X3.",
+    "variants": [
+        {
+            "variant_name": "X3 xDrive20d xLine 1995 cc, Diesel, Automatic (TC), 16.55 kmpl, 188 bhp",
+            "price": "Rs. 68.50 Lakh"
+        },
+        {
+            "variant_name": "X3 xDrive20d M Sport 1995 cc, Diesel, Automatic (TC), 16.55 kmpl, 188 bhp",
+            "price": "Rs. 72.50 Lakh"
+        },
+        {
+            "variant_name": "JUST LAUNCHED JUST LAUNCHED X3 xDrive20d M Sport Shadow Edition 1995 cc, Diesel, Automatic (TC), 16.55 kmpl, 188 bhp",
+            "price": "Rs. 74.90 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 79.74 Lakh onwards",
+        "Hyderabad": "Rs. 87.23 Lakh onwards",
+        "Bangalore": "Rs. 87.10 Lakh onwards",
+        "Mumbai": "Rs. 83.46 Lakh onwards",
+        "Ahmedabad": "Rs. 78.32 Lakh onwards",
+        "Kolkata": "Rs. 79.26 Lakh onwards",
+        "Chennai": "Rs. 87.43 Lakh onwards",
+        "Pune": "Rs. 82.90 Lakh onwards",
+        "Lucknow": "Rs. 79.19 Lakh onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Diesel",
+        "Engine": "1995 cc",
+        "Power and Torque": "188 bhp & 400 Nm",
+        "DriveTrain": "AWD",
+        "Acceleration": "7.9 seconds"
+    }
+}

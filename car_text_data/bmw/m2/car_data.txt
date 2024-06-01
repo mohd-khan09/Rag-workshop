@@ -1,0 +1,6 @@
+name: BMW M2
+link: https://www.carwale.com/bmw-cars/m2/
+description: The price of BMW M2, a 4 seater Coupe, starts from  of Rs. 99.90 Lakh. It is available in 1 variant, with an engine of 2993 cc and a choice of 1 transmission: Automatic. M2 comes with 6 airbags. BMW M2 has a ground clearance of 118 mm  and is available in 5 colours. Users have reported a mileage of 10.13 kmpl for M2.
+variants: [{'variant_name': 'M2 3.0 Petrol 2993 cc, Petrol, Automatic (TC), 10.13 kmpl, 453 bhp', 'price': 'Rs. 99.90 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 1.16 Crore onwards', 'Hyderabad': 'Rs. 1.27 Crore onwards', 'Bangalore': 'Rs. 1.27 Crore onwards', 'Mumbai': 'Rs. 1.19 Crore onwards', 'Ahmedabad': 'Rs. 1.10 Crore onwards', 'Kolkata': 'Rs. 1.12 Crore onwards', 'Chennai': 'Rs. 1.28 Crore onwards', 'Pune': 'Rs. 1.19 Crore onwards', 'Lucknow': 'Rs. 1.15 Crore onwards'}
+specifications: {'Price': 'Rs. 99.90 Lakh', 'Mileage': '10.13 kmpl', 'Engine': '2993 cc', 'Fuel Type': 'Petrol', 'Transmission': 'Automatic', 'Seating Capacity': '4 Seater'}

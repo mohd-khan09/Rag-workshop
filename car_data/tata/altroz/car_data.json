@@ -1,0 +1,159 @@
+{
+    "name": "Tata Altroz",
+    "link": "https://www.carwale.com/tata-cars/altroz/",
+    "description": "The price of Tata Altroz, a 5 seater Hatchback, ranges from Rs. 6.65  - 10.80 Lakh. It is available in 33 variants, with engine options ranging from 1199 to 1497 cc and a choice of 2 transmissions: Manual and Automatic. Altroz has an NCAP rating of 5 stars and comes with 2 airbags. Tata Altroz has a ground clearance of 165 mm  and is available in 6 colours. Users have reported a mileage of 19.14 to 26.2 kmpl for Altroz.",
+    "variants": [
+        {
+            "variant_name": "Altroz XE Petrol 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 6.65 Lakh"
+        },
+        {
+            "variant_name": "Altroz XM Petrol 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 7.00 Lakh"
+        },
+        {
+            "variant_name": "Altroz XM (S) Petrol 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 7.45 Lakh"
+        },
+        {
+            "variant_name": "Altroz XE CNG 1199 cc, CNG, Manual, 26.2 km/kg, 72 bhp",
+            "price": "Rs. 7.60 Lakh"
+        },
+        {
+            "variant_name": "Altroz XM Plus Petrol 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 7.60 Lakh"
+        },
+        {
+            "variant_name": "Altroz XT Petrol 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 8.10 Lakh"
+        },
+        {
+            "variant_name": "Altroz XM Plus (S) 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 8.10 Lakh"
+        },
+        {
+            "variant_name": "Altroz XM Plus iCNG 1199 cc, CNG, Manual, 26.2 km/kg, 72 bhp",
+            "price": "Rs. 8.45 Lakh"
+        },
+        {
+            "variant_name": "Altroz XMA Plus Petrol 1199 cc, Petrol, Automatic (DCT), 19.33 kmpl, 87 bhp",
+            "price": "Rs. 8.60 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Petrol 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 8.60 Lakh"
+        },
+        {
+            "variant_name": "Altroz XM Plus Diesel 1497 cc, Diesel, Manual, 23.64 kmpl, 89 bhp",
+            "price": "Rs. 8.90 Lakh"
+        },
+        {
+            "variant_name": "Altroz XM Plus (S) iCNG 1199 cc, CNG, Manual, 26.2 km/kg, 72 bhp",
+            "price": "Rs. 8.95 Lakh"
+        },
+        {
+            "variant_name": "Altroz XTA Petrol 1199 cc, Petrol, Automatic (DCT), 19.33 kmpl, 87 bhp",
+            "price": "Rs. 9.10 Lakh"
+        },
+        {
+            "variant_name": "Altroz XMA Plus (S) 1199 cc, Petrol, Automatic (DCT), 19.33 kmpl, 87 bhp",
+            "price": "Rs. 9.10 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Plus (S) 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 9.10 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ i-Turbo Petrol 1199 cc, Petrol, Manual, 18.5 kmpl, 108 bhp",
+            "price": "Rs. 9.20 Lakh"
+        },
+        {
+            "variant_name": "Altroz XM Plus (S) Diesel 1497 cc, Diesel, Manual, 23.64 kmpl, 89 bhp",
+            "price": "Rs. 9.40 Lakh"
+        },
+        {
+            "variant_name": "Altroz XT Diesel 1497 cc, Diesel, Manual, 23.64 kmpl, 89 bhp",
+            "price": "Rs. 9.40 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Plus (S) Dark Edition 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 9.50 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ iCNG 1199 cc, CNG, Manual, 26.2 km/kg, 72 bhp",
+            "price": "Rs. 9.60 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Plus (O) (S) 1199 cc, Petrol, Manual, 19.33 kmpl, 87 bhp",
+            "price": "Rs. 9.65 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZA Petrol 1199 cc, Petrol, Automatic (DCT), 19.33 kmpl, 87 bhp",
+            "price": "Rs. 9.70 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Plus i-Turbo (S) 1199 cc, Petrol, Manual, 18.5 kmpl, 108 bhp",
+            "price": "Rs. 9.70 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Diesel 1497 cc, Diesel, Manual, 23.64 kmpl, 89 bhp",
+            "price": "Rs. 9.90 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Plus i-Turbo (S) Dark Edition 1199 cc, Petrol, Manual, 18.5 kmpl, 108 bhp",
+            "price": "Rs. 10.10 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZA Plus (S) 1199 cc, Petrol, Automatic (DCT), 19.33 kmpl, 87 bhp",
+            "price": "Rs. 10.10 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Plus (S) iCNG 1199 cc, CNG, Manual, 26.2 km/kg, 72 bhp",
+            "price": "Rs. 10.10 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZA Plus (S) Dark Edition 1199 cc, Petrol, Automatic (DCT), 19.33 kmpl, 87 bhp",
+            "price": "Rs. 10.40 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Plus (S) Diesel 1497 cc, Diesel, Manual, 23.64 kmpl, 89 bhp",
+            "price": "Rs. 10.40 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Plus (O) (S) iCNG 1199 cc, CNG, Manual, 26.2 km/kg, 72 bhp",
+            "price": "Rs. 10.65 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZA Plus (O) (S) 1199 cc, Petrol, Automatic (DCT), 19.33 kmpl, 87 bhp",
+            "price": "Rs. 10.65 Lakh"
+        },
+        {
+            "variant_name": "Altroz XZ Plus (S) Dark Edition Diesel 1497 cc, Diesel, Manual, 23.64 kmpl, 89 bhp",
+            "price": "Rs. 10.80 Lakh"
+        },
+        {
+            "variant_name": "UPCOMING UPCOMING Altroz Racer Petrol, Manual",
+            "price": "Rs. 8.50 Lakh Expected Price"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 7.58 Lakh onwards",
+        "Hyderabad": "Rs. 7.97 Lakh onwards",
+        "Bangalore": "Rs. 8.16 Lakh onwards",
+        "Mumbai": "Rs. 7.85 Lakh onwards",
+        "Ahmedabad": "Rs. 7.41 Lakh onwards",
+        "Kolkata": "Rs. 7.75 Lakh onwards",
+        "Chennai": "Rs. 7.98 Lakh onwards",
+        "Pune": "Rs. 7.88 Lakh onwards",
+        "Lucknow": "Rs. 7.59 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 6.65 Lakh onwards",
+        "Mileage": "19.14 to 26.2 kmpl",
+        "Engine": "1199 cc & 1497 cc",
+        "Safety": "5 Star (Global NCAP)",
+        "Fuel Type": "Petrol, CNG & Diesel",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

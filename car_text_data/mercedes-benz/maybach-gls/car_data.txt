@@ -1,0 +1,6 @@
+name: Mercedes-Benz Maybach GLS
+link: https://www.carwale.com/mercedes-benz-cars/maybach-gls/
+description: The price of Mercedes-Benz Maybach GLS, a 5 seater SUV, starts from  of Rs. 2.96 Crore. It is available in 1 variant, with an engine of 3982 cc and a choice of 1 transmission: Automatic. Maybach GLS comes with 8 airbags. Mercedes-Benz Maybach GLS is available in 8 colours. Users have reported a mileage of 8.5 kmpl for Maybach GLS.
+variants: [{'variant_name': 'Maybach GLS 600 4MATIC 3982 cc, Petrol, Automatic (TC), 8.5 kmpl, 550 bhp', 'price': 'Rs. 2.96 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 3.41 Crore onwards', 'Hyderabad': 'Rs. 3.65 Crore onwards', 'Bangalore': 'Rs. 3.65 Crore onwards', 'Mumbai': 'Rs. 3.51 Crore onwards', 'Ahmedabad': 'Rs. 3.23 Crore onwards', 'Kolkata': 'Rs. 3.41 Crore onwards', 'Chennai': 'Rs. 3.71 Crore onwards', 'Pune': 'Rs. 3.51 Crore onwards', 'Lucknow': 'Rs. 3.41 Crore onwards'}
+specifications: {'Fuel Type': 'Petrol', 'Engine': '3982 cc', 'Power and Torque': '550 bhp & 730 Nm', 'DriveTrain': 'AWD', 'Acceleration': '4.9 seconds', 'Top Speed': '250 kmph'}

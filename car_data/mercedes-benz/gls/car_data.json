@@ -1,0 +1,32 @@
+{
+    "name": "Mercedes-Benz GLS",
+    "link": "https://www.carwale.com/mercedes-benz-cars/gls/",
+    "description": "The price of Mercedes-Benz GLS, a 7 seater SUV, ranges from Rs. 1.32  - 1.37 Crore. It is available in 2 variants, with engine options ranging from 2989 to 2999 cc and a choice of 1 transmission: Automatic. GLS comes with 9 airbags. Mercedes-Benz GLS has a ground clearance of 200 mm  and is available in 5 colours. Users have reported a mileage of 10 kmpl for GLS.",
+    "variants": [
+        {
+            "variant_name": "GLS 450 4MATIC 2999 cc, Petrol, Automatic (TC), 375 bhp",
+            "price": "Rs. 1.32 Crore"
+        },
+        {
+            "variant_name": "GLS 450d 4MATIC 2989 cc, Diesel, Automatic (TC), 362 bhp",
+            "price": "Rs. 1.37 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.53 Crore onwards",
+        "Hyderabad": "Rs. 1.63 Crore onwards",
+        "Bangalore": "Rs. 1.63 Crore onwards",
+        "Mumbai": "Rs. 1.57 Crore onwards",
+        "Ahmedabad": "Rs. 1.45 Crore onwards",
+        "Kolkata": "Rs. 1.53 Crore onwards",
+        "Chennai": "Rs. 1.66 Crore onwards",
+        "Pune": "Rs. 1.57 Crore onwards",
+        "Lucknow": "Rs. 1.53 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Petrol & Diesel",
+        "Engine": "2989 cc & 2999 cc",
+        "Power and Torque": "362 to 375 bhp & 500 to 750 Nm",
+        "DriveTrain": "AWD"
+    }
+}

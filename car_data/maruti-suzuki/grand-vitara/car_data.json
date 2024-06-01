@@ -1,0 +1,94 @@
+{
+    "name": "Maruti Grand Vitara",
+    "link": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/",
+    "description": "The price of Maruti Grand Vitara, a 5 seater SUV, ranges from Rs. 10.87  - 19.97 Lakh. It is available in 17 variants, with engine options ranging from 1462 to 1490 cc and a choice of 2 transmissions: Manual and Automatic. Grand Vitara comes with 6 airbags. Maruti Grand Vitara has a ground clearance of 210 mm  and is available in 10 colours. Users have reported a mileage of 20.58 to 27.97 kmpl for Grand Vitara.",
+    "variants": [
+        {
+            "variant_name": "Grand Vitara Sigma Smart Hybrid 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 21.11 kmpl, 102 bhp",
+            "price": "Rs. 10.87 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Delta Smart Hybrid 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 21.11 kmpl, 102 bhp",
+            "price": "Rs. 12.16 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Delta CNG 1462 cc, CNG, Manual, 26.6 km/kg, 87 bhp",
+            "price": "Rs. 13.11 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Delta Smart Hybrid AT 1462 cc, Mild Hybrid(Electric + Petrol), Automatic (TC), 20.58 kmpl, 102 bhp",
+            "price": "Rs. 13.60 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Zeta Smart Hybrid 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 21.11 kmpl, 102 bhp",
+            "price": "Rs. 13.97 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Zeta CNG 1462 cc, CNG, Manual, 26.6 km/kg, 87 bhp",
+            "price": "Rs. 14.92 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Zeta Smart Hybrid AT 1462 cc, Mild Hybrid(Electric + Petrol), Automatic (TC), 20.58 kmpl, 102 bhp",
+            "price": "Rs. 15.41 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Alpha Smart Hybrid 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 21.11 kmpl, 102 bhp",
+            "price": "Rs. 15.47 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Alpha Smart Hybrid Dual Tone 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 21.11 kmpl, 102 bhp",
+            "price": "Rs. 15.63 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Alpha Smart Hybrid AT 1462 cc, Mild Hybrid(Electric + Petrol), Automatic (TC), 20.58 kmpl, 102 bhp",
+            "price": "Rs. 16.91 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Alpha Smart Hybrid AllGrip 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 19.38 kmpl, 102 bhp",
+            "price": "Rs. 16.97 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Alpha Smart Hybrid AT Dual Tone 1462 cc, Mild Hybrid(Electric + Petrol), Automatic (TC), 20.58 kmpl, 102 bhp",
+            "price": "Rs. 17.07 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Alpha Smart Hybrid AllGrip Dual Tone 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 19.38 kmpl, 102 bhp",
+            "price": "Rs. 17.13 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Zeta Plus Intelligent Hybrid eCVT 1490 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 27.97 kmpl, 91 bhp",
+            "price": "Rs. 18.31 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Zeta Plus Intelligent Hybrid eCVT Dual Tone 1490 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 27.97 kmpl, 91 bhp",
+            "price": "Rs. 18.47 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Alpha Plus Intelligent Hybrid eCVT 1490 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 27.97 kmpl, 91 bhp",
+            "price": "Rs. 19.88 Lakh"
+        },
+        {
+            "variant_name": "Grand Vitara Alpha Plus Intelligent Hybrid eCVT Dual Tone 1490 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 27.97 kmpl, 91 bhp",
+            "price": "Rs. 19.97 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 12.64 Lakh onwards",
+        "Hyderabad": "Rs. 13.61 Lakh onwards",
+        "Bangalore": "Rs. 13.62 Lakh onwards",
+        "Mumbai": "Rs. 13.09 Lakh onwards",
+        "Ahmedabad": "Rs. 12.18 Lakh onwards",
+        "Kolkata": "Rs. 12.84 Lakh onwards",
+        "Chennai": "Rs. 13.74 Lakh onwards",
+        "Pune": "Rs. 13.09 Lakh onwards",
+        "Lucknow": "Rs. 12.83 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 10.87 Lakh onwards",
+        "Mileage": "20.58 to 27.97 kmpl",
+        "Engine": "1462 cc & 1490 cc",
+        "Fuel Type": "Hybrid & CNG",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

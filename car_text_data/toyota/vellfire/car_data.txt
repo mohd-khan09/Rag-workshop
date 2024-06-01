@@ -1,0 +1,6 @@
+name: Toyota Vellfire
+link: https://www.carwale.com/toyota-cars/vellfire/
+description: The price of Toyota Vellfire, a 7 seater MUV, ranges from Rs. 1.20  - 1.30 Crore. It is available in 2 variants, with an engine of 2487 cc and a choice of 1 transmission: Automatic. Vellfire comes with 6 airbags. Toyota Vellfire is available in 3 colours. Users have reported a mileage of 19.28 kmpl for Vellfire.
+variants: [{'variant_name': 'Vellfire Hi 2487 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 19.28 kmpl, 142 bhp', 'price': 'Rs. 1.20 Crore'}, {'variant_name': 'Vellfire VIP – Executive Lounge 2487 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 19.28 kmpl, 142 bhp', 'price': 'Rs. 1.30 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 1.36 Crore onwards', 'Hyderabad': 'Rs. 1.48 Crore onwards', 'Bangalore': 'Rs. 1.49 Crore onwards', 'Mumbai': 'Rs. 1.47 Crore onwards', 'Ahmedabad': 'Rs. 1.31 Crore onwards', 'Kolkata': 'Rs. 1.37 Crore onwards', 'Chennai': 'Rs. 1.52 Crore onwards', 'Pune': 'Rs. 1.45 Crore onwards', 'Lucknow': 'Rs. 1.37 Crore onwards'}
+specifications: {'Price': 'Rs. 1.20 Crore onwards', 'Mileage': '19.28 kmpl', 'Engine': '2487 cc', 'Fuel Type': 'Hybrid', 'Transmission': 'Automatic', 'Seating Capacity': '7 Seater'}

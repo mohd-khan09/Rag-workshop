@@ -1,0 +1,115 @@
+{
+    "name": "Hyundai Venue",
+    "link": "https://www.carwale.com/hyundai-cars/venue/",
+    "description": "The price of Hyundai Venue, a 5 seater Compact SUV, ranges from Rs. 7.94  - 13.48 Lakh. It is available in 24 variants, with engine options ranging from 998 to 1493 cc and a choice of 2 transmissions: Manual and Automatic. Venue comes with 6 airbags. Hyundai Venue has a ground clearance of 195 mm  and is available in 7 colours. Users have reported a mileage of 17.5 to 23.4 kmpl for Venue.",
+    "variants": [
+        {
+            "variant_name": "Venue E 1.2 Petrol 1197 cc, Petrol, Manual, 17.5 kmpl, 82 bhp",
+            "price": "Rs. 7.94 Lakh"
+        },
+        {
+            "variant_name": "Venue S 1.2 Petrol 1197 cc, Petrol, Manual, 17.5 kmpl, 82 bhp",
+            "price": "Rs. 9.11 Lakh"
+        },
+        {
+            "variant_name": "Venue S (O) 1.2 Petrol 1197 cc, Petrol, Manual, 17.5 kmpl, 82 bhp",
+            "price": "Rs. 9.89 Lakh"
+        },
+        {
+            "variant_name": "Venue Executive 1.0 Turbo MT 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 10.00 Lakh"
+        },
+        {
+            "variant_name": "Venue S (O) 1.2 Petrol Knight Edition 1197 cc, Petrol, Manual, 82 bhp",
+            "price": "Rs. 10.13 Lakh"
+        },
+        {
+            "variant_name": "Venue S (O) 1.0 Turbo MT 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 10.40 Lakh"
+        },
+        {
+            "variant_name": "Venue S Plus 1.5 CRDi 1493 cc, Diesel, Manual, 23.4 kmpl, 113 bhp",
+            "price": "Rs. 10.71 Lakh"
+        },
+        {
+            "variant_name": "Venue SX 1.2 Petrol 1197 cc, Petrol, Manual, 17.5 kmpl, 82 bhp",
+            "price": "Rs. 11.05 Lakh"
+        },
+        {
+            "variant_name": "Venue SX 1.2 Petrol Dual Tone 1197 cc, Petrol, Manual, 17.5 kmpl, 82 bhp",
+            "price": "Rs. 11.20 Lakh"
+        },
+        {
+            "variant_name": "Venue SX 1.2 MT Knight Edition 1197 cc, Petrol, Manual, 82 bhp",
+            "price": "Rs. 11.38 Lakh"
+        },
+        {
+            "variant_name": "Venue S (O) 1.0 Turbo DCT 998 cc, Petrol, Automatic (DCT), 118 bhp",
+            "price": "Rs. 11.51 Lakh"
+        },
+        {
+            "variant_name": "Venue SX 1.2 MT Knight Edition Dual Tone 1197 cc, Petrol, Manual, 82 bhp",
+            "price": "Rs. 11.53 Lakh"
+        },
+        {
+            "variant_name": "Venue SX 1.5 CRDi 1493 cc, Diesel, Manual, 23.4 kmpl, 113 bhp",
+            "price": "Rs. 12.37 Lakh"
+        },
+        {
+            "variant_name": "Venue SX (O) MT 1.0 Turbo 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 12.44 Lakh"
+        },
+        {
+            "variant_name": "Venue SX 1.5 CRDi Dual Tone 1493 cc, Diesel, Manual, 23.4 kmpl, 113 bhp",
+            "price": "Rs. 12.52 Lakh"
+        },
+        {
+            "variant_name": "Venue SX (O) MT 1.0 Turbo Dual Tone 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 12.59 Lakh"
+        },
+        {
+            "variant_name": "Venue SX(O) 1.0 Turbo MT Knight Edition 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 12.65 Lakh"
+        },
+        {
+            "variant_name": "Venue SX(O) 1.0 Turbo MT Knight Edition Dual Tone 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 12.80 Lakh"
+        },
+        {
+            "variant_name": "Venue SX (O) 1.0 Turbo DCT 998 cc, Petrol, Automatic (DCT), 118 bhp",
+            "price": "Rs. 13.23 Lakh"
+        },
+        {
+            "variant_name": "Venue SX (O) MT 1.5 Diesel 1493 cc, Diesel, Manual, 114 bhp",
+            "price": "Rs. 13.29 Lakh"
+        },
+        {
+            "variant_name": "Venue SX(O) 1.0 Turbo DCT Knight Edition 998 cc, Petrol, Automatic (DCT), 118 bhp",
+            "price": "Rs. 13.33 Lakh"
+        },
+        {
+            "variant_name": "Venue SX (O) 1.0 Turbo  DCT Dual Tone 998 cc, Petrol, Automatic (DCT), 118 bhp",
+            "price": "Rs. 13.38 Lakh"
+        },
+        {
+            "variant_name": "Venue SX (O) MT 1.5 Diesel Dual Tone 1493 cc, Diesel, Manual, 114 bhp",
+            "price": "Rs. 13.44 Lakh"
+        },
+        {
+            "variant_name": "Venue SX(O) 1.0 Turbo DCT Knight Edition Dual Tone 998 cc, Petrol, Automatic (DCT), 118 bhp",
+            "price": "Rs. 13.48 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 9.01 Lakh onwards",
+        "Hyderabad": "Rs. 9.58 Lakh onwards",
+        "Bangalore": "Rs. 9.67 Lakh onwards",
+        "Mumbai": "Rs. 9.30 Lakh onwards",
+        "Ahmedabad": "Rs. 9.04 Lakh onwards",
+        "Kolkata": "Rs. 9.29 Lakh onwards",
+        "Chennai": "Rs. 9.52 Lakh onwards",
+        "Pune": "Rs. 9.42 Lakh onwards",
+        "Lucknow": "Rs. 9.10 Lakh onwards"
+    },
+    "specifications": {}
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Jeep Meridian",
+    "link": "https://www.carwale.com/jeep-cars/meridian/",
+    "description": "The price of Jeep Meridian, a 7 seater SUV, ranges from Rs. 33.60  - 39.66 Lakh. It is available in 7 variants, with an engine of 1956 cc and a choice of 2 transmissions: Manual and Automatic. Meridian comes with 6 airbags. Jeep Meridian has a ground clearance of 214 mm  and is available in 7 colours. Users have reported a mileage of 11.5 kmpl for Meridian.",
+    "variants": [
+        {
+            "variant_name": "Meridian Limited (O) 4x2 MT 1956 cc, Diesel, Manual, 168 bhp",
+            "price": "Rs. 33.60 Lakh"
+        },
+        {
+            "variant_name": "Meridian Limited (O) 4x2 AT 1956 cc, Diesel, Automatic (TC), 168 bhp",
+            "price": "Rs. 35.52 Lakh"
+        },
+        {
+            "variant_name": "Meridian Limited Plus 4x2 AT 1956 cc, Diesel, Automatic (TC), 168 bhp",
+            "price": "Rs. 36.13 Lakh"
+        },
+        {
+            "variant_name": "Meridian Overland 4x2 AT 1956 cc, Diesel, Automatic (TC), 168 bhp",
+            "price": "Rs. 36.97 Lakh"
+        },
+        {
+            "variant_name": "Meridian Limited (O) 4x4 AT 1956 cc, Diesel, Automatic (TC), 168 bhp",
+            "price": "Rs. 38.21 Lakh"
+        },
+        {
+            "variant_name": "Meridian Limited Plus 4x4 AT 1956 cc, Diesel, Automatic (TC), 168 bhp",
+            "price": "Rs. 38.81 Lakh"
+        },
+        {
+            "variant_name": "Meridian Overland 4x4 AT 1956 cc, Diesel, Automatic (TC), 168 bhp",
+            "price": "Rs. 39.66 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 39.84 Lakh onwards",
+        "Hyderabad": "Rs. 41.46 Lakh onwards",
+        "Bangalore": "Rs. 42.64 Lakh onwards",
+        "Mumbai": "Rs. 41.10 Lakh onwards",
+        "Ahmedabad": "Rs. 37.72 Lakh onwards",
+        "Kolkata": "Rs. 39.18 Lakh onwards",
+        "Chennai": "Rs. 43.11 Lakh onwards",
+        "Pune": "Rs. 41.04 Lakh onwards",
+        "Lucknow": "Rs. 39.10 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 33.60 Lakh onwards",
+        "Engine": "1956 cc",
+        "Fuel Type": "Diesel",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "7 Seater"
+    }
+}

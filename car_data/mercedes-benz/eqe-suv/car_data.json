@@ -1,0 +1,28 @@
+{
+    "name": "Mercedes-Benz EQE SUV",
+    "link": "https://www.carwale.com/mercedes-benz-cars/eqe-suv/",
+    "description": "The price of Mercedes-Benz EQE SUV, a 5 seater SUV, starts from  of Rs. 1.39 Crore. It is available in 1 variant and a choice of 1 transmission: Automatic. EQE SUV has an NCAP rating of 5 stars and comes with 9 airbags. Mercedes-Benz EQE SUV is available in 7 colours. Users have reported a driving range of 550 Km for EQE SUV.",
+    "variants": [
+        {
+            "variant_name": "EQE SUV 500 4MATIC 90.56 kWh, Electric, Automatic, 550 Km",
+            "price": "Rs. 1.39 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.47 Crore onwards",
+        "Hyderabad": "Rs. 1.68 Crore onwards",
+        "Bangalore": "Rs. 1.47 Crore onwards",
+        "Mumbai": "Rs. 1.47 Crore onwards",
+        "Ahmedabad": "Rs. 1.55 Crore onwards",
+        "Kolkata": "Rs. 1.47 Crore onwards",
+        "Chennai": "Rs. 1.47 Crore onwards",
+        "Pune": "Rs. 1.47 Crore onwards",
+        "Lucknow": "Rs. 1.47 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Electric",
+        "DriveTrain": "AWD",
+        "Acceleration": "4.9 seconds",
+        "Top Speed": "210 kmph"
+    }
+}

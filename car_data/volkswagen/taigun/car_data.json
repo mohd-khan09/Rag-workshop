@@ -1,0 +1,143 @@
+{
+    "name": "Volkswagen Taigun",
+    "link": "https://www.carwale.com/volkswagen-cars/taigun/",
+    "description": "The price of Volkswagen Taigun, a 5 seater SUV, ranges from Rs. 11.70  - 21.10 Lakh. It is available in 29 variants, with engine options ranging from 999 to 1498 cc and a choice of 2 transmissions: Manual and Automatic. Taigun has an NCAP rating of 5 stars. Volkswagen Taigun has a ground clearance of 188 mm  and is available in 9 colours. Users have reported a mileage of 18.15 to 19.87 kmpl for Taigun.",
+    "variants": [
+        {
+            "variant_name": "Taigun Comfortline 1.0 TSI MT 999 cc, Petrol, Manual, 19.87 kmpl, 114 bhp",
+            "price": "Rs. 11.70 Lakh"
+        },
+        {
+            "variant_name": "Taigun Highline 1.0 TSI MT 999 cc, Petrol, Manual, 19.87 kmpl, 114 bhp",
+            "price": "Rs. 13.88 Lakh"
+        },
+        {
+            "variant_name": "Taigun Sport GT Line 1.0 MT 999 cc, Petrol, Manual, 19.87 kmpl, 114 bhp",
+            "price": "Rs. 14.08 Lakh"
+        },
+        {
+            "variant_name": "Taigun Highline 1.0 TSI AT 999 cc, Petrol, Automatic (TC), 18.15 kmpl, 114 bhp",
+            "price": "Rs. 15.43 Lakh"
+        },
+        {
+            "variant_name": "Taigun Sport GT Line 1.0 AT 999 cc, Petrol, Automatic (TC), 18.15 kmpl, 114 bhp",
+            "price": "Rs. 15.63 Lakh"
+        },
+        {
+            "variant_name": "Taigun Topline 1.0 TSI MT 999 cc, Petrol, Manual, 19.87 kmpl, 114 bhp",
+            "price": "Rs. 16.12 Lakh"
+        },
+        {
+            "variant_name": "Taigun Topline 1.0 TSI MT (Electric Seats) 999 cc, Petrol, Manual, 19.87 kmpl, 114 bhp",
+            "price": "Rs. 16.31 Lakh"
+        },
+        {
+            "variant_name": "Taigun Sound Edition Topline MT 999 cc, Petrol, Manual, 19.87 kmpl, 114 bhp",
+            "price": "Rs. 16.51 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Edge Trail Edition 1498 cc, Petrol, Manual, 18.61 kmpl, 148 bhp",
+            "price": "Rs. 16.77 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT 1.5 TSI MT 1498 cc, Petrol, Manual, 18.61 kmpl, 148 bhp",
+            "price": "Rs. 16.77 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT 1.5 DSG 1498 cc, Petrol, Automatic (DCT), 19.01 kmpl, 148 bhp",
+            "price": "Rs. 17.36 Lakh"
+        },
+        {
+            "variant_name": "Taigun Topline 1.0 TSI AT 999 cc, Petrol, Automatic (TC), 18.15 kmpl, 114 bhp",
+            "price": "Rs. 17.63 Lakh"
+        },
+        {
+            "variant_name": "Taigun Topline 1.0 TSI AT (Electric Seats) 999 cc, Petrol, Automatic (TC), 18.15 kmpl, 114 bhp",
+            "price": "Rs. 17.88 Lakh"
+        },
+        {
+            "variant_name": "Taigun Sound Edition Topline AT 999 cc, Petrol, Automatic (TC), 18.15 kmpl, 114 bhp",
+            "price": "Rs. 18.08 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus 1.5 MT 1498 cc, Petrol, Manual, 18.61 kmpl, 148 bhp",
+            "price": "Rs. 18.18 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus Edge Limited Edition Deep Black Pearl 1498 cc, Petrol, Manual, 18.61 kmpl, 148 bhp",
+            "price": "Rs. 18.38 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus Edge Limited Edition Carbon Steel Grey Matte 1498 cc, Petrol, Manual, 18.61 kmpl, 148 bhp",
+            "price": "Rs. 18.44 Lakh"
+        },
+        {
+            "variant_name": "Taigun Sport GT Plus 1.5 MT 1498 cc, Petrol, Manual, 18.61 kmpl, 148 bhp",
+            "price": "Rs. 18.53 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus 1.5 MT (Electric Seats) 1498 cc, Petrol, Manual, 18.61 kmpl, 148 bhp",
+            "price": "Rs. 18.54 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus Edge Deep Black Pearl (Electric Seats) 1498 cc, Petrol, Manual, 18.61 kmpl, 148 bhp",
+            "price": "Rs. 18.74 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus Edge Carbon Steel Grey Matte (Electric Seats) 1498 cc, Petrol, Manual, 18.61 kmpl, 148 bhp",
+            "price": "Rs. 18.80 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus 1.5 TSI DSG 1498 cc, Petrol, Automatic (DCT), 19.01 kmpl, 148 bhp",
+            "price": "Rs. 19.44 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus Edge Limited Edition DSG Deep Black Pearl 1498 cc, Petrol, Automatic (DCT), 19.01 kmpl, 148 bhp",
+            "price": "Rs. 19.64 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus Edge DSG  Carbon Steel Grey Matte 1498 cc, Petrol, Automatic (DCT), 19.01 kmpl, 148 bhp",
+            "price": "Rs. 19.70 Lakh"
+        },
+        {
+            "variant_name": "Taigun Sport GT Plus 1.5 DSG 1498 cc, Petrol, Automatic (DCT), 19.01 kmpl, 148 bhp",
+            "price": "Rs. 19.73 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus 1.5 TSI DSG (Electric Seats) 1498 cc, Petrol, Automatic (DCT), 19.01 kmpl, 148 bhp",
+            "price": "Rs. 19.74 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus Edge DSG Deep Black Pearl (Electric Seats) 1498 cc, Petrol, Automatic (DCT), 19.01 kmpl, 148 bhp",
+            "price": "Rs. 19.94 Lakh"
+        },
+        {
+            "variant_name": "Taigun GT Plus Edge DSG Carbon Steel Grey Matte (Electric Seats) 1498 cc, Petrol, Automatic (DCT), 18.61 kmpl, 148 bhp",
+            "price": "Rs. 20.00 Lakh"
+        },
+        {
+            "variant_name": "UPCOMING UPCOMING Taigun Sport (GT DSG) Petrol, Automatic (DCT)",
+            "price": "Rs. 21.10 Lakh Expected Price"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 13.41 Lakh onwards",
+        "Hyderabad": "Rs. 14.67 Lakh onwards",
+        "Bangalore": "Rs. 14.59 Lakh onwards",
+        "Mumbai": "Rs. 13.84 Lakh onwards",
+        "Ahmedabad": "Rs. 13.49 Lakh onwards",
+        "Kolkata": "Rs. 13.67 Lakh onwards",
+        "Chennai": "Rs. 14.50 Lakh onwards",
+        "Pune": "Rs. 13.80 Lakh onwards",
+        "Lucknow": "Rs. 13.57 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 11.70 Lakh onwards",
+        "Mileage": "18.15 to 19.87 kmpl",
+        "Engine": "1498 cc & 999 cc",
+        "Safety": "5 Star (Global NCAP)",
+        "Fuel Type": "Petrol",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

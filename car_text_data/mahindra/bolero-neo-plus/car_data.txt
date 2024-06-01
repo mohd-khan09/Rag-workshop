@@ -1,0 +1,6 @@
+name: Mahindra Bolero Neo Plus
+link: https://www.carwale.com/mahindra-cars/bolero-neo-plus/
+description: The price of Mahindra Bolero Neo Plus, a 9 seater Compact SUV, ranges from Rs. 11.39  - 12.49 Lakh. It is available in 2 variants, with an engine of 2184 cc and a choice of 1 transmission: Manual. Bolero Neo Plus comes with 2 airbags. Mahindra Bolero Neo Plus is available in 3 colours. 
+variants: [{'variant_name': 'Bolero Neo Plus P4 2184 cc, Diesel, Manual, 118 bhp', 'price': 'Rs. 11.39 Lakh'}, {'variant_name': 'Bolero Neo Plus P10 2184 cc, Diesel, Manual, 118 bhp', 'price': 'Rs. 12.49 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 13.82 Lakh onwards', 'Hyderabad': 'Rs. 14.29 Lakh onwards', 'Bangalore': 'Rs. 14.30 Lakh onwards', 'Mumbai': 'Rs. 13.99 Lakh onwards', 'Ahmedabad': 'Rs. 13.04 Lakh onwards', 'Kolkata': 'Rs. 13.50 Lakh onwards', 'Chennai': 'Rs. 14.42 Lakh onwards', 'Pune': 'Rs. 13.99 Lakh onwards', 'Lucknow': 'Rs. 13.48 Lakh onwards'}
+specifications: {'Price': 'Rs. 11.39 Lakh onwards', 'Engine': '2184 cc', 'Fuel Type': 'Diesel', 'Transmission': 'Manual', 'Seating Capacity': '9 Seater'}

@@ -1,0 +1,6 @@
+name: Lexus RX
+link: https://www.carwale.com/lexus-cars/rx/
+description: The price of Lexus RX, a 5 seater SUV, ranges from Rs. 95.80 Lakh - 1.18 Crore. It is available in 2 variants, with engine options ranging from 2393 to 2487 cc and a choice of 1 transmission: Automatic. RX has an NCAP rating of 5 stars and comes with 10 airbags. Lexus RX is available in 10 colours. 
+variants: [{'variant_name': 'RX 350h Luxury 2487 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 190 bhp', 'price': 'Rs. 95.80 Lakh'}, {'variant_name': 'RX 500h F-Sport Plus 2393 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 268 bhp', 'price': 'Rs. 1.18 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 1.11 Crore onwards', 'Hyderabad': 'Rs. 1.19 Crore onwards', 'Bangalore': 'Rs. 1.18 Crore onwards', 'Mumbai': 'Rs. 1.14 Crore onwards', 'Ahmedabad': 'Rs. 1.05 Crore onwards', 'Kolkata': 'Rs. 1.11 Crore onwards', 'Chennai': 'Rs. 1.20 Crore onwards', 'Pune': 'Rs. 1.14 Crore onwards', 'Lucknow': 'Rs. 1.11 Crore onwards'}
+specifications: {'Fuel Type': 'Hybrid', 'Engine': '2393 cc & 2487 cc', 'Power and Torque': '190 to 268 bhp & 242 to 460 Nm', 'DriveTrain': 'AWD', 'Top Speed': '200 to 210 kmph'}

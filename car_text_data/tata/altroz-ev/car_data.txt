@@ -1,0 +1,6 @@
+name: Tata Altroz EV
+link: https://www.carwale.com/tata-cars/altroz-ev/
+description: Tata Altroz EV is a Hatchback which is expected to launch in India in Jan 2025 in the expected price range of Rs. 12.00  - 15.00 Lakh. It is available in 1 variant. Tata Altroz EV driving range is 306 Km.
+variants: []
+on_road_prices: {}
+specifications: {'Price': 'Rs. 12.00 Lakh onwards', 'Fuel Type': 'Electric', 'Driving Range': '306 km', 'Charging Time': '8 hrs', 'Transmission': 'Automatic', 'Battery Capacity': '26 kWh'}

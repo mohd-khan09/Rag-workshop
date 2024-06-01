@@ -1,0 +1,73 @@
+{
+    "name": "Hyundai Creta N Line",
+    "link": "https://www.carwale.com/hyundai-cars/creta-n-line/",
+    "description": "The price of Hyundai Creta N Line , a 5 seater SUV, ranges from Rs. 16.82  - 20.45 Lakh. It is available in 12 variants, with an engine of 1482 cc and a choice of 2 transmissions: Manual and Automatic. Creta N Line comes with 6 airbags. Hyundai Creta N Line  is available in 6 colours. ",
+    "variants": [
+        {
+            "variant_name": "Creta N Line N8 1.5 Turbo MT 1482 cc, Petrol, Manual, 158 bhp",
+            "price": "Rs. 16.82 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N8 1.5 Turbo MT Titan Grey Matte 1482 cc, Petrol, Manual, 158 bhp",
+            "price": "Rs. 16.87 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N8 1.5 Turbo MT Dual Tone 1482 cc, Petrol, Manual, 158 bhp",
+            "price": "Rs. 16.97 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N8 1.5 Turbo DCT 1482 cc, Petrol, Automatic (DCT), 158 bhp",
+            "price": "Rs. 18.32 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N8 1.5 Turbo DCT Titan Grey Matte 1482 cc, Petrol, Automatic (DCT), 158 bhp",
+            "price": "Rs. 18.37 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N8 1.5 Turbo DCT Dual Tone 1482 cc, Petrol, Automatic (DCT), 158 bhp",
+            "price": "Rs. 18.47 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N10 1.5 Turbo MT 1482 cc, Petrol, Manual, 158 bhp",
+            "price": "Rs. 19.34 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N10 1.5 Turbo MT Titan Grey Matte 1482 cc, Petrol, Manual, 158 bhp",
+            "price": "Rs. 19.39 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N10 1.5 Turbo MT Dual Tone 1482 cc, Petrol, Manual, 158 bhp",
+            "price": "Rs. 19.49 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N10 1.5 Turbo DCT 1482 cc, Petrol, Automatic (DCT), 158 bhp",
+            "price": "Rs. 20.30 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N10 1.5 Turbo DCT Titan Grey Matte 1482 cc, Petrol, Automatic (DCT), 158 bhp",
+            "price": "Rs. 20.35 Lakh"
+        },
+        {
+            "variant_name": "Creta N Line N10 1.5 Turbo DCT Dual Tone 1482 cc, Petrol, Automatic (DCT), 158 bhp",
+            "price": "Rs. 20.45 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 19.61 Lakh onwards",
+        "Hyderabad": "Rs. 20.72 Lakh onwards",
+        "Bangalore": "Rs. 20.99 Lakh onwards",
+        "Mumbai": "Rs. 19.95 Lakh onwards",
+        "Ahmedabad": "Rs. 18.56 Lakh onwards",
+        "Kolkata": "Rs. 19.55 Lakh onwards",
+        "Chennai": "Rs. 20.94 Lakh onwards",
+        "Pune": "Rs. 19.95 Lakh onwards",
+        "Lucknow": "Rs. 19.53 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 16.82 Lakh onwards",
+        "Engine": "1482 cc",
+        "Fuel Type": "Petrol",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

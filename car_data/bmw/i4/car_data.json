@@ -1,0 +1,32 @@
+{
+    "name": "BMW i4",
+    "link": "https://www.carwale.com/bmw-cars/i4/",
+    "description": "The price of BMW i4, a 5 seater Sedan, ranges from Rs. 72.50  - 77.50 Lakh. It is available in 2 variants and a choice of 1 transmission: Automatic. i4 comes with 8 airbags. BMW i4 has a ground clearance of 125 mm  and is available in 3 colours. Users have reported a driving range of 536.5 Km for i4.",
+    "variants": [
+        {
+            "variant_name": "i4 eDrive35 M Sport 70.2 kWh, Electric, Automatic, 483 Km",
+            "price": "Rs. 72.50 Lakh"
+        },
+        {
+            "variant_name": "i4 eDrive40 M Sport 83.9 kWh, Electric, Automatic, 590 Km",
+            "price": "Rs. 77.50 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 76.60 Lakh onwards",
+        "Hyderabad": "Rs. 90.11 Lakh onwards",
+        "Bangalore": "Rs. 78.38 Lakh onwards",
+        "Mumbai": "Rs. 77.69 Lakh onwards",
+        "Ahmedabad": "Rs. 85.55 Lakh onwards",
+        "Kolkata": "Rs. 76.56 Lakh onwards",
+        "Chennai": "Rs. 78.30 Lakh onwards",
+        "Pune": "Rs. 76.57 Lakh onwards",
+        "Lucknow": "Rs. 76.48 Lakh onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Electric",
+        "DriveTrain": "RWD",
+        "Acceleration": "5.7 to 6 seconds",
+        "Top Speed": "250 kmph"
+    }
+}

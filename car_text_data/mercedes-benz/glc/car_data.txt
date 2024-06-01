@@ -1,0 +1,6 @@
+name: Mercedes-Benz GLC
+link: https://www.carwale.com/mercedes-benz-cars/glc/
+description: The price of Mercedes-Benz GLC, a 5 seater SUV, ranges from Rs. 74.45  - 75.45 Lakh. It is available in 2 variants, with engine options ranging from 1993 to 1999 cc and a choice of 1 transmission: Automatic. GLC has an NCAP rating of 5 stars and comes with 7 airbags. Mercedes-Benz GLC is available in 5 colours. Users have reported a mileage of 14.72 to 19.47 kmpl for GLC.
+variants: [{'variant_name': 'GLC 300 4MATIC 1999 cc, Petrol, Automatic (TC), 14.72 kmpl, 255 bhp', 'price': 'Rs. 74.45 Lakh'}, {'variant_name': 'GLC 220d 4MATIC 1993 cc, Diesel, Automatic (TC), 19.47 kmpl, 194 bhp', 'price': 'Rs. 75.45 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 86.00 Lakh onwards', 'Hyderabad': 'Rs. 92.16 Lakh onwards', 'Bangalore': 'Rs. 92.06 Lakh onwards', 'Mumbai': 'Rs. 88.53 Lakh onwards', 'Ahmedabad': 'Rs. 81.63 Lakh onwards', 'Kolkata': 'Rs. 86.10 Lakh onwards', 'Chennai': 'Rs. 93.56 Lakh onwards', 'Pune': 'Rs. 88.53 Lakh onwards', 'Lucknow': 'Rs. 86.01 Lakh onwards'}
+specifications: {'Fuel Type': 'Petrol & Diesel', 'Engine': '1993 cc & 1999 cc', 'Power and Torque': '194 to 255 bhp & 400 to 440 Nm', 'DriveTrain': '4WD', 'Acceleration': '6.2 to 8 seconds', 'Top Speed': '219 to 240 kmph'}

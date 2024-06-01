@@ -1,0 +1,6 @@
+name: BMW X4 M40i
+link: https://www.carwale.com/bmw-cars/x4-m40i/
+description: The price of BMW X4, a 5 seater SUV, starts from  of Rs. 96.20 Lakh. It is available in 1 variant, with an engine of 2998 cc and a choice of 1 transmission: Automatic. X4 M40i has an NCAP rating of 5 stars and comes with 6 airbags. BMW X4 is available in 2 colours. Users have reported a mileage of 10.4 kmpl for X4.
+variants: [{'variant_name': 'X4 M40i xDrive 2998 cc, Petrol, Automatic (TC), 10.4 kmpl, 355 bhp', 'price': 'Rs. 96.20 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 1.11 Crore onwards', 'Hyderabad': 'Rs. 1.23 Crore onwards', 'Bangalore': 'Rs. 1.22 Crore onwards', 'Mumbai': 'Rs. 1.14 Crore onwards', 'Ahmedabad': 'Rs. 1.06 Crore onwards', 'Kolkata': 'Rs. 1.08 Crore onwards', 'Chennai': 'Rs. 1.23 Crore onwards', 'Pune': 'Rs. 1.14 Crore onwards', 'Lucknow': 'Rs. 1.11 Crore onwards'}
+specifications: {'Fuel Type': 'Petrol', 'Engine': '2998 cc', 'Power and Torque': '355 bhp & 500 Nm', 'DriveTrain': 'AWD', 'Acceleration': '4.9 seconds'}

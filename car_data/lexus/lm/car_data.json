@@ -1,0 +1,32 @@
+{
+    "name": "Lexus LM",
+    "link": "https://www.carwale.com/lexus-cars/lm/",
+    "description": "The price of Lexus LM, a 4 seater MUV, ranges from Rs. 2.00  - 2.50 Crore. It is available in 2 variants, with an engine of 2487 cc and a choice of 1 transmission: Automatic. LM comes with 14 airbags. Lexus LM is available in 4 colours. ",
+    "variants": [
+        {
+            "variant_name": "LM 350h 7 STR VIP 2487 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 190 bhp",
+            "price": "Rs. 2.00 Crore"
+        },
+        {
+            "variant_name": "LM 350h 4 STR Ultra Luxury 2487 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 190 bhp",
+            "price": "Rs. 2.50 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 2.31 Crore onwards",
+        "Hyderabad": "Rs. 2.47 Crore onwards",
+        "Bangalore": "Rs. 2.47 Crore onwards",
+        "Mumbai": "Rs. 2.37 Crore onwards",
+        "Ahmedabad": "Rs. 2.19 Crore onwards",
+        "Kolkata": "Rs. 2.31 Crore onwards",
+        "Chennai": "Rs. 2.51 Crore onwards",
+        "Pune": "Rs. 2.37 Crore onwards",
+        "Lucknow": "Rs. 2.30 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Hybrid",
+        "Engine": "2487 cc",
+        "Power and Torque": "190 bhp & 242 Nm",
+        "DriveTrain": "4WD / AWD"
+    }
+}

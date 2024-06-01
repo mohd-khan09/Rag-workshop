@@ -1,0 +1,38 @@
+{
+    "name": "Mercedes-Benz C-Class",
+    "link": "https://www.carwale.com/mercedes-benz-cars/c-class/",
+    "description": "The price of Mercedes-Benz C-Class, a 5 seater Sedan, ranges from Rs. 60.85  - 62.70 Lakh. It is available in 3 variants, with engine options ranging from 1496 to 1993 cc and a choice of 1 transmission: Automatic. C-Class comes with 7 airbags. Mercedes-Benz C-Class is available in 6 colours. Users have reported a mileage of 17.5 kmpl for C-Class.",
+    "variants": [
+        {
+            "variant_name": "C-Class C 200 1496 cc, Petrol, Automatic (TC), 201 bhp",
+            "price": "Rs. 60.85 Lakh"
+        },
+        {
+            "variant_name": "C-Class C 220d 1993 cc, Diesel, Automatic (TC), 197 bhp",
+            "price": "Rs. 61.85 Lakh"
+        },
+        {
+            "variant_name": "C-Class C 300d 1993 cc, Diesel, Automatic (TC), 261 bhp",
+            "price": "Rs. 62.70 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 69.71 Lakh onwards",
+        "Hyderabad": "Rs. 75.40 Lakh onwards",
+        "Bangalore": "Rs. 75.07 Lakh onwards",
+        "Mumbai": "Rs. 72.18 Lakh onwards",
+        "Ahmedabad": "Rs. 66.54 Lakh onwards",
+        "Kolkata": "Rs. 70.19 Lakh onwards",
+        "Chennai": "Rs. 76.29 Lakh onwards",
+        "Pune": "Rs. 72.18 Lakh onwards",
+        "Lucknow": "Rs. 70.13 Lakh onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Petrol & Diesel",
+        "Engine": "1496 cc & 1993 cc",
+        "Power and Torque": "197 to 261 bhp & 300 to 550 Nm",
+        "DriveTrain": "RWD",
+        "Acceleration": "5.7 to 7.3 seconds",
+        "Top Speed": "245 to 250 kmph"
+    }
+}

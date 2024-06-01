@@ -1,0 +1,6 @@
+name: Audi Q5
+link: https://www.carwale.com/audi-cars/q5/
+description: The price of Audi Q5, a 5 seater SUV, ranges from Rs. 65.18  - 70.45 Lakh. It is available in 2 variants, with an engine of 1984 cc and a choice of 1 transmission: Automatic. Q5 has an NCAP rating of 5 stars and comes with 8 airbags. Audi Q5 is available in 4 colours. Users have reported a mileage of 13.4 kmpl for Q5.
+variants: [{'variant_name': 'Q5 Premium Plus 45 TFSI 1984 cc, Petrol, Automatic (DCT), 13.4 kmpl, 261 bhp', 'price': 'Rs. 65.18 Lakh'}, {'variant_name': 'Q5 Technology 45 TFSI 1984 cc, Petrol, Automatic (DCT), 13.4 kmpl, 261 bhp', 'price': 'Rs. 70.45 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 75.49 Lakh onwards', 'Hyderabad': 'Rs. 80.66 Lakh onwards', 'Bangalore': 'Rs. 83.15 Lakh onwards', 'Mumbai': 'Rs. 77.58 Lakh onwards', 'Ahmedabad': 'Rs. 71.54 Lakh onwards', 'Kolkata': 'Rs. 75.30 Lakh onwards', 'Chennai': 'Rs. 85.42 Lakh onwards', 'Pune': 'Rs. 77.58 Lakh onwards', 'Lucknow': 'Rs. 75.38 Lakh onwards'}
+specifications: {}

@@ -1,0 +1,32 @@
+{
+    "name": "Audi e-tron Sportback",
+    "link": "https://www.carwale.com/audi-cars/e-tron-sportback/",
+    "description": "The price of Audi e-tron Sportback, a 5 seater SUV, ranges from Rs. 1.26  - 1.26 Crore. It is available in 2 variants and a choice of 1 transmission: Automatic. e-tron Sportback has an NCAP rating of 5 stars and comes with 8 airbags. Audi e-tron Sportback is available in 9 colours. Users have reported a driving range of 484 Km for e-tron Sportback.",
+    "variants": [
+        {
+            "variant_name": "e-tron Sportback 55 95 kWh, Electric, Automatic, 484 Km",
+            "price": "Rs. 1.26 Crore"
+        },
+        {
+            "variant_name": "e-tron Sportback 55 Technology 95 kWh, Electric, Automatic, 484 Km",
+            "price": "Rs. 1.26 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.27 Crore onwards",
+        "Hyderabad": "Rs. 1.33 Crore onwards",
+        "Bangalore": "Rs. 1.33 Crore onwards",
+        "Mumbai": "Rs. 1.33 Crore onwards",
+        "Ahmedabad": "Rs. 1.41 Crore onwards",
+        "Kolkata": "Rs. 1.33 Crore onwards",
+        "Chennai": "Rs. 1.33 Crore onwards",
+        "Pune": "Rs. 1.33 Crore onwards",
+        "Lucknow": "Rs. 1.33 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Electric",
+        "DriveTrain": "AWD",
+        "Acceleration": "5.7 seconds",
+        "Top Speed": "200 kmph"
+    }
+}

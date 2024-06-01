@@ -1,0 +1,30 @@
+{
+    "name": "Mercedes-Benz AMG C 43",
+    "link": "https://www.carwale.com/mercedes-benz-cars/amg-c-43/",
+    "description": "The price of Mercedes-Benz AMG C 43, a 5 seater Sedan, starts from  of Rs. 98.25 Lakh. It is available in 1 variant, with an engine of 1991 cc and a choice of 1 transmission: Automatic. AMG C 43 has an NCAP rating of 5 stars and comes with 7 airbags. Mercedes-Benz AMG C 43 is available in 7 colours. ",
+    "variants": [
+        {
+            "variant_name": "AMG C 43 4MATIC 1991 cc, Petrol, Automatic (TC), 402 bhp",
+            "price": "Rs. 98.25 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.14 Crore onwards",
+        "Hyderabad": "Rs. 1.21 Crore onwards",
+        "Bangalore": "Rs. 1.22 Crore onwards",
+        "Mumbai": "Rs. 1.17 Crore onwards",
+        "Ahmedabad": "Rs. 1.08 Crore onwards",
+        "Kolkata": "Rs. 1.14 Crore onwards",
+        "Chennai": "Rs. 1.24 Crore onwards",
+        "Pune": "Rs. 1.17 Crore onwards",
+        "Lucknow": "Rs. 1.14 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Petrol",
+        "Engine": "1991 cc",
+        "Power and Torque": "402 bhp & 500 Nm",
+        "DriveTrain": "AWD",
+        "Acceleration": "4.6 seconds",
+        "Top Speed": "250 kmph"
+    }
+}

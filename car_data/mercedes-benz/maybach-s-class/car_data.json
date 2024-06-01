@@ -1,0 +1,34 @@
+{
+    "name": "Mercedes-Benz Maybach S-Class",
+    "link": "https://www.carwale.com/mercedes-benz-cars/maybach-s-class/",
+    "description": "The price of Mercedes-Benz Maybach S-Class, a 5 seater Sedan, ranges from Rs. 2.72  - 3.44 Crore. It is available in 2 variants, with engine options ranging from 3982 to 5980 cc and a choice of 1 transmission: Automatic. Maybach S-Class comes with 10 airbags. Mercedes-Benz Maybach S-Class is available in 7 colours. Users have reported a mileage of 7.5 to 9.8 kmpl for Maybach S-Class.",
+    "variants": [
+        {
+            "variant_name": "Maybach S-Class S 580 4MATIC 3982 cc, Mild Hybrid(Electric + Petrol), Automatic (TC), 9.8 kmpl, 496 bhp",
+            "price": "Rs. 2.72 Crore"
+        },
+        {
+            "variant_name": "Maybach S-Class S 680 4MATIC 5980 cc, Petrol, Automatic (TC), 7.5 kmpl, 603 bhp",
+            "price": "Rs. 3.44 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 3.13 Crore onwards",
+        "Hyderabad": "Rs. 3.35 Crore onwards",
+        "Bangalore": "Rs. 3.35 Crore onwards",
+        "Mumbai": "Rs. 3.22 Crore onwards",
+        "Ahmedabad": "Rs. 2.97 Crore onwards",
+        "Kolkata": "Rs. 3.13 Crore onwards",
+        "Chennai": "Rs. 3.40 Crore onwards",
+        "Pune": "Rs. 3.22 Crore onwards",
+        "Lucknow": "Rs. 3.13 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Hybrid & Petrol",
+        "Engine": "3982 cc & 5980 cc",
+        "Power and Torque": "496 to 603 bhp & 700 to 900 Nm",
+        "DriveTrain": "AWD",
+        "Acceleration": "4.5 to 4.8 seconds",
+        "Top Speed": "250 kmph"
+    }
+}

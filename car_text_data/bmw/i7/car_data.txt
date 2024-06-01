@@ -1,0 +1,6 @@
+name: BMW i7
+link: https://www.carwale.com/bmw-cars/i7/
+description: The price of BMW i7, a 5 seater Sedan, ranges from Rs. 2.03  - 2.50 Crore. It is available in 3 variants and a choice of 1 transmission: Automatic. i7 comes with 7 airbags. BMW i7 is available in 7 colours. Users have reported a driving range of 596 Km for i7.
+variants: [{'variant_name': 'JUST LAUNCHED JUST LAUNCHED i7 eDrive50 M Sport 101.7 kWh, Electric, Automatic, 603 Km', 'price': 'Rs. 2.03 Crore'}, {'variant_name': 'i7 xDrive60 M Sport 101.7 kWh, Electric, Automatic, 625 Km', 'price': 'Rs. 2.13 Crore'}, {'variant_name': 'i7 M70 xDrive 101.7 kWh, Electric, Automatic, 560 Km', 'price': 'Rs. 2.50 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 2.14 Crore onwards', 'Hyderabad': 'Rs. 2.44 Crore onwards', 'Bangalore': 'Rs. 2.14 Crore onwards', 'Mumbai': 'Rs. 2.14 Crore onwards', 'Ahmedabad': 'Rs. 2.26 Crore onwards', 'Kolkata': 'Rs. 2.14 Crore onwards', 'Chennai': 'Rs. 2.14 Crore onwards', 'Pune': 'Rs. 2.14 Crore onwards', 'Lucknow': 'Rs. 2.13 Crore onwards'}
+specifications: {'Fuel Type': 'Electric', 'DriveTrain': 'AWD', 'Acceleration': '3.7 to 5.5 seconds', 'Top Speed': '250 kmph'}

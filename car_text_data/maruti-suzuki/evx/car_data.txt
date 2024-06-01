@@ -1,0 +1,6 @@
+name: Maruti eVX
+link: https://www.carwale.com/maruti-suzuki-cars/evx/
+description: Maruti Suzuki eVX is a SUV which is expected to launch in India in Dec 2024 in the expected price range of Rs. 20.00  - 25.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {'Price': 'Rs. 20.00 Lakh onwards', 'BodyStyle': 'SUV', 'Launch Date': '24 Dec 2024 (Tentative)'}

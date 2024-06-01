@@ -1,0 +1,6 @@
+name: Mercedes-Benz AMG GLA35
+link: https://www.carwale.com/mercedes-benz-cars/amg-gla35/
+description: The price of Mercedes-Benz AMG GLA35, a 5 seater SUV, starts from  of Rs. 63.50 Lakh. It is available in 1 variant, with an engine of 1991 cc and a choice of 1 transmission: Automatic. AMG GLA35 comes with 7 airbags. Mercedes-Benz AMG GLA35 is available in 6 colours. Users have reported a mileage of 13.4 kmpl for AMG GLA35.
+variants: [{'variant_name': 'AMG GLA35 4MATIC 1991 cc, Petrol, Automatic (DCT), 13.4 kmpl, 302 bhp', 'price': 'Rs. 63.50 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 73.56 Lakh onwards', 'Hyderabad': 'Rs. 78.60 Lakh onwards', 'Bangalore': 'Rs. 78.61 Lakh onwards', 'Mumbai': 'Rs. 75.59 Lakh onwards', 'Ahmedabad': 'Rs. 69.71 Lakh onwards', 'Kolkata': 'Rs. 73.52 Lakh onwards', 'Chennai': 'Rs. 79.88 Lakh onwards', 'Pune': 'Rs. 75.59 Lakh onwards', 'Lucknow': 'Rs. 73.45 Lakh onwards'}
+specifications: {'Fuel Type': 'Petrol', 'Engine': '1991 cc', 'Power and Torque': '302 bhp & 400 Nm', 'DriveTrain': 'AWD', 'Acceleration': '5.46 seconds', 'Top Speed': '250 kmph'}

@@ -1,0 +1,54 @@
+{
+    "name": "Hyundai Aura",
+    "link": "https://www.carwale.com/hyundai-cars/aura/",
+    "description": "The price of Hyundai Aura, a 5 seater Compact Sedan, ranges from Rs. 6.49  - 9.05 Lakh. It is available in 7 variants, with an engine of 1197 cc and a choice of 2 transmissions: Manual and Automatic. Aura has an NCAP rating of 2 stars and comes with 6 airbags. Hyundai Aura is available in 6 colours. Users have reported a mileage of 19.7 to 25 kmpl for Aura.",
+    "variants": [
+        {
+            "variant_name": "Aura E 1.2 Petrol 1197 cc, Petrol, Manual, 82 bhp",
+            "price": "Rs. 6.49 Lakh"
+        },
+        {
+            "variant_name": "Aura S 1.2 Petrol 1197 cc, Petrol, Manual, 82 bhp",
+            "price": "Rs. 7.33 Lakh"
+        },
+        {
+            "variant_name": "Aura SX 1.2 Petrol 1197 cc, Petrol, Manual, 82 bhp",
+            "price": "Rs. 8.09 Lakh"
+        },
+        {
+            "variant_name": "Aura S 1.2 CNG 1197 cc, CNG, Manual, 68 bhp",
+            "price": "Rs. 8.31 Lakh"
+        },
+        {
+            "variant_name": "Aura SX 1.2 (O) Petrol 1197 cc, Petrol, Manual, 82 bhp",
+            "price": "Rs. 8.66 Lakh"
+        },
+        {
+            "variant_name": "Aura SX Plus 1.2 AMT Petrol 1197 cc, Petrol, Automatic (AMT), 82 bhp",
+            "price": "Rs. 8.89 Lakh"
+        },
+        {
+            "variant_name": "Aura SX 1.2 CNG 1197 cc, CNG, Manual, 68 bhp",
+            "price": "Rs. 9.05 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 7.41 Lakh onwards",
+        "Hyderabad": "Rs. 7.87 Lakh onwards",
+        "Bangalore": "Rs. 7.94 Lakh onwards",
+        "Mumbai": "Rs. 7.61 Lakh onwards",
+        "Ahmedabad": "Rs. 7.43 Lakh onwards",
+        "Kolkata": "Rs. 7.62 Lakh onwards",
+        "Chennai": "Rs. 7.82 Lakh onwards",
+        "Pune": "Rs. 7.73 Lakh onwards",
+        "Lucknow": "Rs. 7.52 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 6.49 Lakh onwards",
+        "Engine": "1197 cc",
+        "Safety": "2 Star (Global NCAP)",
+        "Fuel Type": "Petrol & CNG",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

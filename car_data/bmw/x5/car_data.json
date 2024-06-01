@@ -1,0 +1,41 @@
+{
+    "name": "BMW X5",
+    "link": "https://www.carwale.com/bmw-cars/x5/",
+    "description": "The price of BMW X5, a 5 seater SUV, ranges from Rs. 97.00 Lakh - 1.11 Crore. It is available in 4 variants, with engine options ranging from 2993 to 2998 cc and a choice of 1 transmission: Automatic. X5 comes with 6 airbags. BMW X5 is available in 6 colours. Users have reported a mileage of 12 kmpl for X5.",
+    "variants": [
+        {
+            "variant_name": "X5 xDrive40i xLine 2998 cc, Petrol, Automatic (TC), 12 kmpl, 375 bhp",
+            "price": "Rs. 97.00 Lakh"
+        },
+        {
+            "variant_name": "X5 xDrive30d xLine 2993 cc, Diesel, Automatic (TC), 12 kmpl, 282 bhp",
+            "price": "Rs. 99.00 Lakh"
+        },
+        {
+            "variant_name": "X5 xDrive40i M Sport 2998 cc, Petrol, Automatic (TC), 12 kmpl, 375 bhp",
+            "price": "Rs. 1.09 Crore"
+        },
+        {
+            "variant_name": "X5 xDrive30d M Sport 2993 cc, Diesel, Automatic (TC), 12 kmpl, 282 bhp",
+            "price": "Rs. 1.11 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.12 Crore onwards",
+        "Hyderabad": "Rs. 1.23 Crore onwards",
+        "Bangalore": "Rs. 1.23 Crore onwards",
+        "Mumbai": "Rs. 1.15 Crore onwards",
+        "Ahmedabad": "Rs. 1.06 Crore onwards",
+        "Kolkata": "Rs. 1.12 Crore onwards",
+        "Chennai": "Rs. 1.22 Crore onwards",
+        "Pune": "Rs. 1.15 Crore onwards",
+        "Lucknow": "Rs. 1.12 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Petrol & Diesel",
+        "Engine": "2993 cc & 2998 cc",
+        "Power and Torque": "282 to 375 bhp & 520 to 650 Nm",
+        "DriveTrain": "AWD",
+        "Acceleration": "5.4 to 6.1 seconds"
+    }
+}

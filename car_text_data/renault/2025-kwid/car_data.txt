@@ -1,0 +1,6 @@
+name: Renault 2025 Kwid
+link: https://www.carwale.com/renault-cars/2025-kwid/
+description: Renault 2025 Kwid is a Hatchback which is expected to launch in India in Mar 2025 in the expected price range of Rs. 7.00  - 10.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {'Price': 'Rs. 7.00 Lakh onwards', 'BodyStyle': 'Hatchback', 'Launch Date': '11 Mar 2025 (Tentative)'}

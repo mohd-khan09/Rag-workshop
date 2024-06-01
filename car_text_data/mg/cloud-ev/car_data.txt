@@ -1,0 +1,6 @@
+name: MG Cloud EV
+link: https://www.carwale.com/mg-cars/cloud-ev/
+description: MG Cloud EV is a MUV which is expected to launch in India in Sep 2024 in the expected price range of Rs. 25.00  - 30.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {'Price': 'Rs. 25.00 Lakh onwards', 'BodyStyle': 'MUV', 'Launch Date': '10 Sep 2024 (Tentative)'}

@@ -1,0 +1,6 @@
+name: BMW M4 Competition
+link: https://www.carwale.com/bmw-cars/m4-competition/
+description: The price of BMW M4 Competition, a 4 seater Coupe, starts from  of Rs. 1.53 Crore. It is available in 1 variant, with an engine of 2993 cc and a choice of 1 transmission: Automatic. M4 Competition has an NCAP rating of 5 stars and comes with 6 airbags. BMW M4 Competition has a ground clearance of 120 mm  and is available in 7 colours. Users have reported a mileage of 9.7 kmpl for M4 Competition.
+variants: [{'variant_name': 'M4 Competition M xDrive 2993 cc, Petrol, Automatic (TC), 9.7 kmpl, 503 bhp', 'price': 'Rs. 1.53 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 1.77 Crore onwards', 'Hyderabad': 'Rs. 1.89 Crore onwards', 'Bangalore': 'Rs. 1.89 Crore onwards', 'Mumbai': 'Rs. 1.82 Crore onwards', 'Ahmedabad': 'Rs. 1.67 Crore onwards', 'Kolkata': 'Rs. 1.77 Crore onwards', 'Chennai': 'Rs. 1.92 Crore onwards', 'Pune': 'Rs. 1.82 Crore onwards', 'Lucknow': 'Rs. 1.76 Crore onwards'}
+specifications: {'Fuel Type': 'Petrol', 'Engine': '2993 cc', 'Power and Torque': '503 bhp & 650 Nm', 'DriveTrain': 'AWD', 'Acceleration': '3.5 seconds', 'Top Speed': '250 kmph'}

@@ -1,0 +1,38 @@
+{
+    "name": "BMW 3 Series Gran Limousine",
+    "link": "https://www.carwale.com/bmw-cars/3-series-gran-limousine/",
+    "description": "The price of BMW 3 Series Gran Limousine, a 5 seater Sedan, ranges from Rs. 60.60  - 62.60 Lakh. It is available in 3 variants, with engine options ranging from 1995 to 1998 cc and a choice of 1 transmission: Automatic. 3 Series Gran Limousine has an NCAP rating of 5 stars and comes with 6 airbags. BMW 3 Series Gran Limousine is available in 4 colours. Users have reported a mileage of 15.39 to 19.61 kmpl for 3 Series Gran Limousine.",
+    "variants": [
+        {
+            "variant_name": "3 Series Gran Limousine 330Li M Sport 1998 cc, Petrol, Automatic (TC), 15.39 kmpl, 255 bhp",
+            "price": "Rs. 60.60 Lakh"
+        },
+        {
+            "variant_name": "3 Series Gran Limousine 320Ld M Sport 1995 cc, Diesel, Automatic (TC), 19.61 kmpl, 188 bhp",
+            "price": "Rs. 62.00 Lakh"
+        },
+        {
+            "variant_name": "JUST LAUNCHED JUST LAUNCHED 3 Series Gran Limousine 330Li M Sport Pro Editon 1998 cc, Petrol, Automatic (TC), 15.39 kmpl, 255 bhp",
+            "price": "Rs. 62.60 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 69.08 Lakh onwards",
+        "Hyderabad": "Rs. 77.18 Lakh onwards",
+        "Bangalore": "Rs. 77.15 Lakh onwards",
+        "Mumbai": "Rs. 72.64 Lakh onwards",
+        "Ahmedabad": "Rs. 68.73 Lakh onwards",
+        "Kolkata": "Rs. 68.11 Lakh onwards",
+        "Chennai": "Rs. 77.48 Lakh onwards",
+        "Pune": "Rs. 72.17 Lakh onwards",
+        "Lucknow": "Rs. 70.12 Lakh onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Petrol & Diesel",
+        "Engine": "1995 cc & 1998 cc",
+        "Power and Torque": "188 to 255 bhp & 400 Nm",
+        "DriveTrain": "RWD",
+        "Acceleration": "6.2 to 7.6 seconds",
+        "Top Speed": "230 to 250 kmph"
+    }
+}

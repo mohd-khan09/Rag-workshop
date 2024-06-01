@@ -1,0 +1,111 @@
+{
+    "name": "Skoda Kushaq",
+    "link": "https://www.carwale.com/skoda-cars/kushaq/",
+    "description": "The price of Skoda Kushaq, a 5 seater SUV, ranges from Rs. 11.99  - 20.49 Lakh. It is available in 21 variants, with engine options ranging from 999 to 1498 cc and a choice of 2 transmissions: Manual and Automatic. Kushaq has an NCAP rating of 5 stars and comes with 6 airbags. Skoda Kushaq has a ground clearance of 188 mm  and is available in 6 colours. Users have reported a mileage of 17.79 to 19.67 kmpl for Kushaq.",
+    "variants": [
+        {
+            "variant_name": "Kushaq Active 1.0 TSI MT 999 cc, Petrol, Manual, 19.76 kmpl, 114 bhp",
+            "price": "Rs. 11.99 Lakh"
+        },
+        {
+            "variant_name": "Kushaq ONYX Edition 1.0 TSI 999 cc, Petrol, Manual, 19.76 kmpl, 114 bhp",
+            "price": "Rs. 12.89 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Ambition 1.0L TSI MT 999 cc, Petrol, Manual, 19.76 kmpl, 114 bhp",
+            "price": "Rs. 14.54 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Ambition 1.0 TSI AT 999 cc, Petrol, Automatic (TC), 18.09 kmpl, 114 bhp",
+            "price": "Rs. 15.84 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style 1.0L TSI MT (Non-Sunroof) 999 cc, Petrol, Manual, 19.76 kmpl, 114 bhp",
+            "price": "Rs. 15.91 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Ambition 1.5L TSI MT 1498 cc, Petrol, Manual, 18.6 kmpl, 148 bhp",
+            "price": "Rs. 15.99 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style Matte Edition 1.0L TSI MT 999 cc, Petrol, Manual, 114 bhp",
+            "price": "Rs. 16.19 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style 1.0L TSI MT 999 cc, Petrol, Manual, 19.76 kmpl, 114 bhp",
+            "price": "Rs. 16.59 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Monte Carlo 1.0L TSI MT 999 cc, Petrol, Manual, 19.2 kmpl, 114 bhp",
+            "price": "Rs. 17.29 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Ambition 1.5L TSI DSG 1498 cc, Petrol, Automatic (DCT), 18.86 kmpl, 148 bhp",
+            "price": "Rs. 17.39 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style 1.0L TSI AT 999 cc, Petrol, Automatic (TC), 18.09 kmpl, 114 bhp",
+            "price": "Rs. 17.89 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style Matte Edition 1.5L TSI MT 1498 cc, Petrol, Manual, 148 bhp",
+            "price": "Rs. 18.19 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style 1.5L TSI MT 1498 cc, Petrol, Manual, 19 kmpl, 148 bhp",
+            "price": "Rs. 18.39 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style Elegance Edition 1.5L TSI MT 1498 cc, Petrol, Manual, 18.6 kmpl, 148 bhp",
+            "price": "Rs. 18.49 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style Matte Edition 1.0L TSI AT 999 cc, Petrol, Automatic (TC), 114 bhp",
+            "price": "Rs. 18.59 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Monte Carlo 1.0 TSI AT 999 cc, Petrol, Automatic (TC), 17.2 kmpl, 114 bhp",
+            "price": "Rs. 18.59 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Monte Carlo 1.5L TSI MT 1498 cc, Petrol, Manual, 17.95 kmpl, 148 bhp",
+            "price": "Rs. 19.09 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style Matte Edition 1.5L TSI DSG 1498 cc, Petrol, Automatic (DCT), 148 bhp",
+            "price": "Rs. 19.39 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style 1.5L TSI DSG 1498 cc, Petrol, Automatic (DCT), 18.86 kmpl, 148 bhp",
+            "price": "Rs. 19.79 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Style Elegance Edition 1.5L TSI DSG 1498 cc, Petrol, Automatic (DCT), 18.86 kmpl, 148 bhp",
+            "price": "Rs. 19.89 Lakh"
+        },
+        {
+            "variant_name": "Kushaq Monte Carlo 1.5L TSI DSG 1498 cc, Petrol, Automatic (DCT), 17.7 kmpl, 148 bhp",
+            "price": "Rs. 20.49 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 13.96 Lakh onwards",
+        "Hyderabad": "Rs. 14.76 Lakh onwards",
+        "Bangalore": "Rs. 14.77 Lakh onwards",
+        "Mumbai": "Rs. 14.12 Lakh onwards",
+        "Ahmedabad": "Rs. 13.22 Lakh onwards",
+        "Kolkata": "Rs. 13.92 Lakh onwards",
+        "Chennai": "Rs. 14.89 Lakh onwards",
+        "Pune": "Rs. 14.19 Lakh onwards",
+        "Lucknow": "Rs. 13.91 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 11.99 Lakh onwards",
+        "Mileage": "17.79 to 19.67 kmpl",
+        "Engine": "1498 cc & 999 cc",
+        "Safety": "5 Star (Global NCAP)",
+        "Fuel Type": "Petrol",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

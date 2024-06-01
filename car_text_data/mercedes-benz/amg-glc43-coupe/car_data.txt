@@ -1,0 +1,6 @@
+name: Mercedes-Benz AMG GLC43 Coupe
+link: https://www.carwale.com/mercedes-benz-cars/amg-glc43-coupe/
+description: The price of Mercedes-Benz AMG GLC43 Coupe, a 5 seater Coupe, starts from  of Rs. 87.00 Lakh. It is available in 1 variant, with an engine of 2996 cc and a choice of 1 transmission: Automatic. AMG GLC43 Coupe has an NCAP rating of 5 stars and comes with 7 airbags. Mercedes-Benz AMG GLC43 Coupe has a ground clearance of 201 mm  and is available in 6 colours. Users have reported a mileage of 9.5 kmpl for AMG GLC43 Coupe.
+variants: [{'variant_name': 'AMG GLC43 Coupe 4MATIC 2996 cc, Petrol, Automatic (TC), 9.5 kmpl, 385 bhp', 'price': 'Rs. 87.00 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 1.01 Crore onwards', 'Hyderabad': 'Rs. 1.08 Crore onwards', 'Bangalore': 'Rs. 1.08 Crore onwards', 'Mumbai': 'Rs. 1.04 Crore onwards', 'Ahmedabad': 'Rs. 95.54 Lakh onwards', 'Kolkata': 'Rs. 1.01 Crore onwards', 'Chennai': 'Rs. 1.09 Crore onwards', 'Pune': 'Rs. 1.04 Crore onwards', 'Lucknow': 'Rs. 1.01 Crore onwards'}
+specifications: {'Fuel Type': 'Petrol', 'Engine': '2996 cc', 'Power and Torque': '385 bhp & 520 Nm', 'DriveTrain': 'AWD', 'Acceleration': '4.9 seconds', 'Top Speed': '250 kmph'}

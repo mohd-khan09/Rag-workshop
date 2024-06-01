@@ -1,0 +1,59 @@
+{
+    "name": "Maruti S-Presso",
+    "link": "https://www.carwale.com/maruti-suzuki-cars/s-presso/",
+    "description": "The price of Maruti S-Presso, a 4 seater Hatchback, ranges from Rs. 4.26  - 6.11 Lakh. It is available in 8 variants, with an engine of 998 cc and a choice of 2 transmissions: Manual and Automatic. S-Presso has an NCAP rating of 0 stars and comes with 2 airbags. Maruti S-Presso has a ground clearance of 180 mm  and is available in 7 colours. Users have reported a mileage of 24.44 to 32.73 kmpl for S-Presso.",
+    "variants": [
+        {
+            "variant_name": "S-Presso Std 998 cc, Petrol, Manual, 24.12 kmpl, 66 bhp",
+            "price": "Rs. 4.26 Lakh"
+        },
+        {
+            "variant_name": "S-Presso LXi 998 cc, Petrol, Manual, 24.12 kmpl, 66 bhp",
+            "price": "Rs. 5.01 Lakh"
+        },
+        {
+            "variant_name": "S-Presso VXi 998 cc, Petrol, Manual, 24.76 kmpl, 66 bhp",
+            "price": "Rs. 5.21 Lakh"
+        },
+        {
+            "variant_name": "S-Presso Vxi Plus 998 cc, Petrol, Manual, 24.76 kmpl, 66 bhp",
+            "price": "Rs. 5.50 Lakh"
+        },
+        {
+            "variant_name": "S-Presso VXi (O) AMT 998 cc, Petrol, Automatic (AMT), 25.3 kmpl, 66 bhp",
+            "price": "Rs. 5.72 Lakh"
+        },
+        {
+            "variant_name": "S-Presso LXi S-CNG 998 cc, CNG, Manual, 32.73 km/kg, 56 bhp",
+            "price": "Rs. 5.91 Lakh"
+        },
+        {
+            "variant_name": "S-Presso VXi Plus (O) AMT 998 cc, Petrol, Automatic (AMT), 25.3 kmpl, 66 bhp",
+            "price": "Rs. 6.01 Lakh"
+        },
+        {
+            "variant_name": "S-Presso VXi S-CNG 998 cc, CNG, Manual, 32.73 km/kg, 56 bhp",
+            "price": "Rs. 6.11 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 4.77 Lakh onwards",
+        "Hyderabad": "Rs. 5.15 Lakh onwards",
+        "Bangalore": "Rs. 5.18 Lakh onwards",
+        "Mumbai": "Rs. 5.04 Lakh onwards",
+        "Ahmedabad": "Rs. 4.84 Lakh onwards",
+        "Kolkata": "Rs. 5.14 Lakh onwards",
+        "Chennai": "Rs. 5.09 Lakh onwards",
+        "Pune": "Rs. 5.00 Lakh onwards",
+        "Lucknow": "Rs. 4.73 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 4.26 Lakh onwards",
+        "Mileage": "24.44 to 32.73 kmpl",
+        "Engine": "998 cc",
+        "Safety": "0 Star (Global NCAP)",
+        "Fuel Type": "Petrol & CNG",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "4 & 5 Seater"
+    }
+}

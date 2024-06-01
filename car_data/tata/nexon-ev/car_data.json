@@ -1,0 +1,66 @@
+{
+    "name": "Tata Nexon EV",
+    "link": "https://www.carwale.com/tata-cars/nexon-ev/",
+    "description": "The price of Tata Nexon EV, a Compact SUV, ranges from Rs. 14.49  - 19.49 Lakh. It is available in 10 variants. Nexon EV comes with 6 airbags. Tata Nexon EV has a ground clearance of 205 mm  and is available in 8 colours. Users have reported a driving range of 395 Km for Nexon EV.",
+    "variants": [
+        {
+            "variant_name": "Nexon EV Creative Plus Medium Range 30 kWh, Electric, Automatic, 325 Km",
+            "price": "Rs. 14.49 Lakh"
+        },
+        {
+            "variant_name": "Nexon EV Fearless Medium Range 30 kWh, Electric, Automatic, 325 Km",
+            "price": "Rs. 15.99 Lakh"
+        },
+        {
+            "variant_name": "Nexon EV Fearless Plus Medium Range 30 kWh, Electric, Automatic, 325 Km",
+            "price": "Rs. 16.49 Lakh"
+        },
+        {
+            "variant_name": "Nexon EV Fearless Plus S Medium Range 30 kWh, Electric, Automatic, 325 Km",
+            "price": "Rs. 16.99 Lakh"
+        },
+        {
+            "variant_name": "Nexon EV Fearless Long Range 40.5 kWh, Electric, Automatic, 465 Km",
+            "price": "Rs. 16.99 Lakh"
+        },
+        {
+            "variant_name": "Nexon EV Empowered Medium Range 30 kWh, Electric, Automatic, 325 Km",
+            "price": "Rs. 17.49 Lakh"
+        },
+        {
+            "variant_name": "Nexon EV Fearless Plus Long Range 40.5 kWh, Electric, Automatic, 465 Km",
+            "price": "Rs. 17.49 Lakh"
+        },
+        {
+            "variant_name": "Nexon EV Fearless Plus S Long Range 40.5 kWh, Electric, Automatic, 465 Km",
+            "price": "Rs. 17.99 Lakh"
+        },
+        {
+            "variant_name": "Nexon EV Empowered Plus Long Range 40.5 kWh, Electric, Automatic, 465 Km",
+            "price": "Rs. 19.29 Lakh"
+        },
+        {
+            "variant_name": "Nexon EV Empowered Plus Long Range Dark Edition 40.5 kWh, Electric, Automatic, 465 Km",
+            "price": "Rs. 19.49 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 15.36 Lakh onwards",
+        "Hyderabad": "Rs. 17.35 Lakh onwards",
+        "Bangalore": "Rs. 15.33 Lakh onwards",
+        "Mumbai": "Rs. 15.33 Lakh onwards",
+        "Ahmedabad": "Rs. 16.19 Lakh onwards",
+        "Kolkata": "Rs. 15.32 Lakh onwards",
+        "Chennai": "Rs. 15.51 Lakh onwards",
+        "Pune": "Rs. 15.33 Lakh onwards",
+        "Lucknow": "Rs. 16.32 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 14.49 Lakh onwards",
+        "Fuel Type": "Electric",
+        "Driving Range": "325 to 465 km",
+        "Transmission": "Automatic",
+        "Seating Capacity": "5 Seater",
+        "Battery Capacity": "30 to 40.5 kWh"
+    }
+}

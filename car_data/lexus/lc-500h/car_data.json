@@ -1,0 +1,34 @@
+{
+    "name": "Lexus LC 500h",
+    "link": "https://www.carwale.com/lexus-cars/lc-500h/",
+    "description": "The price of Lexus LC 500h, a 4 seater Coupe, ranges from Rs. 2.39  - 2.51 Crore. It is available in 2 variants, with an engine of 3456 cc and a choice of 1 transmission: Automatic. LC 500h comes with 8 airbags. Lexus LC 500h has a ground clearance of 140 mm  and is available in 10 colours. Users have reported a mileage of 14.8 kmpl for LC 500h.",
+    "variants": [
+        {
+            "variant_name": "LC 500h Sport Plus 3456 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 14.8 kmpl, 295 bhp",
+            "price": "Rs. 2.39 Crore"
+        },
+        {
+            "variant_name": "LC 500h Limited Edition 3456 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 14.8 kmpl, 295 bhp",
+            "price": "Rs. 2.51 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 2.76 Crore onwards",
+        "Hyderabad": "Rs. 2.95 Crore onwards",
+        "Bangalore": "Rs. 2.95 Crore onwards",
+        "Mumbai": "Rs. 2.83 Crore onwards",
+        "Ahmedabad": "Rs. 2.61 Crore onwards",
+        "Kolkata": "Rs. 2.76 Crore onwards",
+        "Chennai": "Rs. 3.00 Crore onwards",
+        "Pune": "Rs. 2.83 Crore onwards",
+        "Lucknow": "Rs. 2.75 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Hybrid",
+        "Engine": "3456 cc",
+        "Power and Torque": "295 bhp & 350 Nm",
+        "DriveTrain": "RWD",
+        "Acceleration": "5 seconds",
+        "Top Speed": "250 kmph"
+    }
+}

@@ -1,0 +1,6 @@
+name: Mercedes-Benz GLC Coupe
+link: https://www.carwale.com/mercedes-benz-cars/glc-coupe/
+description: The price of Mercedes-Benz GLC Coupe, a 5 seater SUV, ranges from Rs. 72.50  - 73.50 Lakh. It is available in 2 variants, with engine options ranging from 1950 to 1991 cc and a choice of 1 transmission: Automatic. GLC Coupe has an NCAP rating of 5 stars and comes with 7 airbags. Mercedes-Benz GLC Coupe has a ground clearance of 201 mm  and is available in 6 colours. Users have reported a mileage of 12.7 to 16.3 kmpl for GLC Coupe.
+variants: [{'variant_name': 'GLC Coupe 300 4MATIC 1991 cc, Petrol, Automatic (TC), 12.7 kmpl, 255 bhp', 'price': 'Rs. 72.50 Lakh'}, {'variant_name': 'GLC Coupe 300d 4MATIC 1950 cc, Diesel, Automatic (TC), 16.3 kmpl, 241 bhp', 'price': 'Rs. 73.50 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 83.90 Lakh onwards', 'Hyderabad': 'Rs. 89.66 Lakh onwards', 'Bangalore': 'Rs. 89.67 Lakh onwards', 'Mumbai': 'Rs. 86.22 Lakh onwards', 'Ahmedabad': 'Rs. 79.51 Lakh onwards', 'Kolkata': 'Rs. 83.86 Lakh onwards', 'Chennai': 'Rs. 91.12 Lakh onwards', 'Pune': 'Rs. 86.22 Lakh onwards', 'Lucknow': 'Rs. 83.78 Lakh onwards'}
+specifications: {'Fuel Type': 'Petrol & Diesel', 'Engine': '1950 cc & 1991 cc', 'Power and Torque': '241 to 255 bhp & 370 to 500 Nm', 'DriveTrain': 'AWD', 'Acceleration': '6.3 to 6.6 seconds', 'Top Speed': '233 to 240 kmph'}

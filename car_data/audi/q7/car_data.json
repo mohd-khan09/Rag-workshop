@@ -1,0 +1,38 @@
+{
+    "name": "Audi Q7",
+    "link": "https://www.carwale.com/audi-cars/q7/",
+    "description": "The price of Audi Q7, a 7 seater SUV, ranges from Rs. 86.92  - 94.45 Lakh. It is available in 3 variants, with an engine of 2995 cc and a choice of 1 transmission: Automatic. Q7 has an NCAP rating of 5 stars and comes with 8 airbags. Audi Q7 is available in 6 colours. Users have reported a mileage of 11.2 kmpl for Q7.",
+    "variants": [
+        {
+            "variant_name": "Q7 Premium Plus 55 TFSI 2995 cc, Petrol, Automatic (TC), 11.2 kmpl, 335 bhp",
+            "price": "Rs. 86.92 Lakh"
+        },
+        {
+            "variant_name": "Q7 Technology 55 TFSI w/o Matrix 2995 cc, Petrol, Automatic (TC), 11.2 kmpl, 335 bhp",
+            "price": "Rs. 90.63 Lakh"
+        },
+        {
+            "variant_name": "Q7 Technology 55 TFSI 2995 cc, Petrol, Automatic (TC), 11.2 kmpl, 335 bhp",
+            "price": "Rs. 94.45 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.01 Crore onwards",
+        "Hyderabad": "Rs. 1.08 Crore onwards",
+        "Bangalore": "Rs. 1.11 Crore onwards",
+        "Mumbai": "Rs. 1.04 Crore onwards",
+        "Ahmedabad": "Rs. 95.45 Lakh onwards",
+        "Kolkata": "Rs. 1.00 Crore onwards",
+        "Chennai": "Rs. 1.11 Crore onwards",
+        "Pune": "Rs. 1.04 Crore onwards",
+        "Lucknow": "Rs. 1.01 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Petrol",
+        "Engine": "2995 cc",
+        "Power and Torque": "335 bhp & 500 Nm",
+        "DriveTrain": "AWD",
+        "Acceleration": "5.9 seconds",
+        "Top Speed": "250 kmph"
+    }
+}

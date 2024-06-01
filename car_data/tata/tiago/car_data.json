@@ -1,0 +1,107 @@
+{
+    "name": "Tata Tiago",
+    "link": "https://www.carwale.com/tata-cars/tiago/",
+    "description": "The price of Tata Tiago, a 5 seater Hatchback, ranges from Rs. 5.65  - 8.90 Lakh. It is available in 20 variants, with an engine of 1199 cc and a choice of 2 transmissions: Manual and Automatic. Tiago has an NCAP rating of 4 stars and comes with 2 airbags. Tata Tiago has a ground clearance of 170 mm  and is available in 6 colours. Users have reported a mileage of 19 to 28.06 kmpl for Tiago.",
+    "variants": [
+        {
+            "variant_name": "Tiago XE 1199 cc, Petrol, Manual, 19.01 kmpl, 85 bhp",
+            "price": "Rs. 5.65 Lakh"
+        },
+        {
+            "variant_name": "Tiago XM 1199 cc, Petrol, Manual, 19.01 kmpl, 85 bhp",
+            "price": "Rs. 6.00 Lakh"
+        },
+        {
+            "variant_name": "Tiago XT (O) 1199 cc, Petrol, Manual, 19.01 kmpl, 85 bhp",
+            "price": "Rs. 6.20 Lakh"
+        },
+        {
+            "variant_name": "Tiago XT 1199 cc, Petrol, Manual, 19.01 kmpl, 85 bhp",
+            "price": "Rs. 6.40 Lakh"
+        },
+        {
+            "variant_name": "Tiago XE CNG 1199 cc, CNG, Manual, 26.49 km/kg, 72 bhp",
+            "price": "Rs. 6.60 Lakh"
+        },
+        {
+            "variant_name": "Tiago XT Rhythm 1199 cc, Petrol, Manual, 19.01 kmpl, 85 bhp",
+            "price": "Rs. 6.60 Lakh"
+        },
+        {
+            "variant_name": "Tiago XTA 1199 cc, Petrol, Automatic (AMT), 19 kmpl, 85 bhp",
+            "price": "Rs. 6.95 Lakh"
+        },
+        {
+            "variant_name": "Tiago XM CNG 1199 cc, CNG, Manual, 26.49 km/kg, 72 bhp",
+            "price": "Rs. 6.95 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZ Plus (O) 1199 cc, Petrol, Manual, 19.01 kmpl, 85 bhp",
+            "price": "Rs. 7.00 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZ Plus 1199 cc, Petrol, Manual, 19.01 kmpl, 85 bhp",
+            "price": "Rs. 7.30 Lakh"
+        },
+        {
+            "variant_name": "Tiago XT CNG 1199 cc, CNG, Manual, 26.49 km/kg, 72 bhp",
+            "price": "Rs. 7.35 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZ Plus Dual Tone 1199 cc, Petrol, Manual, 19.01 kmpl, 85 bhp",
+            "price": "Rs. 7.40 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZA Plus (O) 1199 cc, Petrol, Automatic (AMT), 19 kmpl, 85 bhp",
+            "price": "Rs. 7.55 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZA Plus 1199 cc, Petrol, Automatic (AMT), 19 kmpl, 85 bhp",
+            "price": "Rs. 7.85 Lakh"
+        },
+        {
+            "variant_name": "Tiago XTA iCNG 1199 cc, CNG, Automatic (AMT), 28.06 km/kg, 72 bhp",
+            "price": "Rs. 7.90 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZA Plus Dual Tone 1199 cc, Petrol, Automatic (AMT), 19 kmpl, 85 bhp",
+            "price": "Rs. 7.95 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZ Plus CNG 1199 cc, CNG, Manual, 26.49 km/kg, 72 bhp",
+            "price": "Rs. 8.25 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZ Plus CNG Dual Tone 1199 cc, CNG, Manual, 26.49 km/kg, 72 bhp",
+            "price": "Rs. 8.35 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZA Plus iCNG 1199 cc, CNG, Automatic (AMT), 28.06 km/kg, 72 bhp",
+            "price": "Rs. 8.80 Lakh"
+        },
+        {
+            "variant_name": "Tiago XZA Plus iCNG Dual Tone 1199 cc, CNG, Automatic (AMT), 28.06 km/kg, 72 bhp",
+            "price": "Rs. 8.90 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 6.33 Lakh onwards",
+        "Hyderabad": "Rs. 6.80 Lakh onwards",
+        "Bangalore": "Rs. 6.97 Lakh onwards",
+        "Mumbai": "Rs. 6.72 Lakh onwards",
+        "Ahmedabad": "Rs. 6.41 Lakh onwards",
+        "Kolkata": "Rs. 6.62 Lakh onwards",
+        "Chennai": "Rs. 6.82 Lakh onwards",
+        "Pune": "Rs. 6.73 Lakh onwards",
+        "Lucknow": "Rs. 6.51 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 5.65 Lakh onwards",
+        "Mileage": "19 to 28.06 kmpl",
+        "Engine": "1199 cc",
+        "Safety": "4 Star (Global NCAP)",
+        "Fuel Type": "Petrol & CNG",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

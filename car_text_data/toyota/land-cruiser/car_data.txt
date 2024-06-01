@@ -1,0 +1,6 @@
+name: Toyota Land Cruiser
+link: https://www.carwale.com/toyota-cars/land-cruiser/
+description: The price of Toyota Land Cruiser, a 5 seater SUV, starts from  of Rs. 2.10 Crore. It is available in 1 variant, with an engine of 3346 cc and a choice of 1 transmission: Automatic. Land Cruiser comes with 10 airbags. Toyota Land Cruiser is available in 5 colours. Users have reported a mileage of 10 kmpl for Land Cruiser.
+variants: [{'variant_name': 'Land Cruiser ZX Diesel 3346 cc, Diesel, Automatic, 304 bhp', 'price': 'Rs. 2.10 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 2.44 Crore onwards', 'Hyderabad': 'Rs. 2.59 Crore onwards', 'Bangalore': 'Rs. 2.60 Crore onwards', 'Mumbai': 'Rs. 2.39 Crore onwards', 'Ahmedabad': 'Rs. 2.34 Crore onwards', 'Kolkata': 'Rs. 2.30 Crore onwards', 'Chennai': 'Rs. 2.63 Crore onwards', 'Pune': 'Rs. 2.53 Crore onwards', 'Lucknow': 'Rs. 2.39 Crore onwards'}
+specifications: {'Fuel Type': 'Diesel', 'Engine': '3346 cc', 'Power and Torque': '304 bhp & 700 Nm', 'DriveTrain': 'AWD'}

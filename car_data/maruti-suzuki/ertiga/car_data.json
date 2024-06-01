@@ -1,0 +1,63 @@
+{
+    "name": "Maruti Ertiga",
+    "link": "https://www.carwale.com/maruti-suzuki-cars/ertiga/",
+    "description": "The price of Maruti Ertiga, a 7 seater MUV, ranges from Rs. 8.69  - 13.03 Lakh. It is available in 9 variants, with an engine of 1462 cc and a choice of 2 transmissions: Manual and Automatic. Ertiga has an NCAP rating of 3 stars and comes with 4 airbags. Maruti Ertiga is available in 7 colours. Users have reported a mileage of 20.3 to 26.11 kmpl for Ertiga.",
+    "variants": [
+        {
+            "variant_name": "Ertiga LXi (O) 1462 cc, Petrol, Manual, 20.51 kmpl, 102 bhp",
+            "price": "Rs. 8.69 Lakh"
+        },
+        {
+            "variant_name": "Ertiga VXi (O) 1462 cc, Petrol, Manual, 20.51 kmpl, 102 bhp",
+            "price": "Rs. 9.83 Lakh"
+        },
+        {
+            "variant_name": "Ertiga VXi (O) CNG 1462 cc, CNG, Manual, 26.11 km/kg, 87 bhp",
+            "price": "Rs. 10.78 Lakh"
+        },
+        {
+            "variant_name": "Ertiga ZXi (O) 1462 cc, Petrol, Manual, 20.51 kmpl, 102 bhp",
+            "price": "Rs. 10.93 Lakh"
+        },
+        {
+            "variant_name": "Ertiga VXi AT 1462 cc, Petrol, Automatic (TC), 20.3 kmpl, 102 bhp",
+            "price": "Rs. 11.23 Lakh"
+        },
+        {
+            "variant_name": "Ertiga ZXi Plus 1462 cc, Petrol, Manual, 20.51 kmpl, 102 bhp",
+            "price": "Rs. 11.63 Lakh"
+        },
+        {
+            "variant_name": "Ertiga ZXi (O) CNG 1462 cc, CNG, Manual, 26.11 km/kg, 87 bhp",
+            "price": "Rs. 11.88 Lakh"
+        },
+        {
+            "variant_name": "Ertiga ZXi AT 1462 cc, Petrol, Automatic (TC), 20.3 kmpl, 102 bhp",
+            "price": "Rs. 12.33 Lakh"
+        },
+        {
+            "variant_name": "Ertiga ZXi Plus AT 1462 cc, Petrol, Automatic (TC), 20.3 kmpl, 102 bhp",
+            "price": "Rs. 13.03 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 9.90 Lakh onwards",
+        "Hyderabad": "Rs. 10.38 Lakh onwards",
+        "Bangalore": "Rs. 10.43 Lakh onwards",
+        "Mumbai": "Rs. 10.12 Lakh onwards",
+        "Ahmedabad": "Rs. 9.70 Lakh onwards",
+        "Kolkata": "Rs. 10.06 Lakh onwards",
+        "Chennai": "Rs. 10.23 Lakh onwards",
+        "Pune": "Rs. 10.09 Lakh onwards",
+        "Lucknow": "Rs. 9.63 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 8.69 Lakh onwards",
+        "Mileage": "20.3 to 26.11 kmpl",
+        "Engine": "1462 cc",
+        "Safety": "3 Star (Global NCAP)",
+        "Fuel Type": "Petrol & CNG",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "7 Seater"
+    }
+}

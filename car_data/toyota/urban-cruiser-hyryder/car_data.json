@@ -1,0 +1,78 @@
+{
+    "name": "Toyota Urban Cruiser Hyryder",
+    "link": "https://www.carwale.com/toyota-cars/urban-cruiser-hyryder/",
+    "description": "The price of Toyota Urban Cruiser Hyryder, a 5 seater SUV, ranges from Rs. 11.14  - 20.19 Lakh. It is available in 13 variants, with engine options ranging from 1462 to 1490 cc and a choice of 2 transmissions: Manual and Automatic. Urban Cruiser Hyryder comes with 6 airbags. Toyota Urban Cruiser Hyryder has a ground clearance of 210 mm  and is available in 11 colours. Users have reported a mileage of 20.58 to 27.97 kmpl for Urban Cruiser Hyryder.",
+    "variants": [
+        {
+            "variant_name": "Urban Cruiser Hyryder E NeoDrive 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 21.12 kmpl, 102 bhp",
+            "price": "Rs. 11.14 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder S NeoDrive 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 21.12 kmpl, 102 bhp",
+            "price": "Rs. 12.81 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder S E-CNG 1462 cc, CNG, Manual, 26.6 km/kg, 87 bhp",
+            "price": "Rs. 13.71 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder S AT NeoDrive 1462 cc, Mild Hybrid(Electric + Petrol), Automatic (TC), 20.58 kmpl, 102 bhp",
+            "price": "Rs. 14.01 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder G NeoDrive 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 21.12 kmpl, 102 bhp",
+            "price": "Rs. 14.49 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder G E-CNG 1462 cc, CNG, Manual, 26.6 km/kg, 87 bhp",
+            "price": "Rs. 15.59 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder G AT NeoDrive 1462 cc, Mild Hybrid(Electric + Petrol), Automatic (TC), 20.58 kmpl, 102 bhp",
+            "price": "Rs. 15.69 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder V NeoDrive 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 21.12 kmpl, 102 bhp",
+            "price": "Rs. 16.04 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder S Hybrid 1490 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 27.97 kmpl, 91 bhp",
+            "price": "Rs. 16.66 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder V AT NeoDrive 1462 cc, Mild Hybrid(Electric + Petrol), Automatic (TC), 20.58 kmpl, 102 bhp",
+            "price": "Rs. 17.24 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder V AWD NeoDrive 1462 cc, Mild Hybrid(Electric + Petrol), Manual, 19.39 kmpl, 102 bhp",
+            "price": "Rs. 17.54 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder G Hybrid 1490 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 27.97 kmpl, 91 bhp",
+            "price": "Rs. 18.69 Lakh"
+        },
+        {
+            "variant_name": "Urban Cruiser Hyryder V Hybrid 1490 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 27.97 kmpl, 91 bhp",
+            "price": "Rs. 20.19 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 12.98 Lakh onwards",
+        "Hyderabad": "Rs. 13.97 Lakh onwards",
+        "Bangalore": "Rs. 13.90 Lakh onwards",
+        "Mumbai": "Rs. 13.23 Lakh onwards",
+        "Ahmedabad": "Rs. 12.35 Lakh onwards",
+        "Kolkata": "Rs. 12.43 Lakh onwards",
+        "Chennai": "Rs. 13.87 Lakh onwards",
+        "Pune": "Rs. 13.27 Lakh onwards",
+        "Lucknow": "Rs. 12.94 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 11.14 Lakh onwards",
+        "Mileage": "20.58 to 27.97 kmpl",
+        "Engine": "1462 cc & 1490 cc",
+        "Fuel Type": "Hybrid & CNG",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

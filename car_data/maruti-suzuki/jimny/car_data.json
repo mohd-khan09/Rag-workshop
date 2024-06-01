@@ -1,0 +1,50 @@
+{
+    "name": "Maruti Jimny",
+    "link": "https://www.carwale.com/maruti-suzuki-cars/jimny/",
+    "description": "The price of Maruti Jimny, a 4 seater SUV, ranges from Rs. 12.74  - 15.00 Lakh. It is available in 6 variants, with an engine of 1462 cc and a choice of 2 transmissions: Manual and Automatic. Jimny comes with 6 airbags. Maruti Jimny has a ground clearance of 210 mm  and is available in 7 colours. Users have reported a mileage of 16.39 to 16.94 kmpl for Jimny.",
+    "variants": [
+        {
+            "variant_name": "Jimny Zeta MT 1462 cc, Petrol, Manual, 16.94 kmpl, 103 bhp",
+            "price": "Rs. 12.74 Lakh"
+        },
+        {
+            "variant_name": "Jimny Alpha MT 1462 cc, Petrol, Manual, 16.94 kmpl, 103 bhp",
+            "price": "Rs. 13.69 Lakh"
+        },
+        {
+            "variant_name": "Jimny Alpha MT Dual Tone 1462 cc, Petrol, Manual, 16.94 kmpl, 103 bhp",
+            "price": "Rs. 13.85 Lakh"
+        },
+        {
+            "variant_name": "Jimny Zeta AT 1462 cc, Petrol, Automatic (TC), 16.39 kmpl, 103 bhp",
+            "price": "Rs. 13.89 Lakh"
+        },
+        {
+            "variant_name": "Jimny Alpha AT 1462 cc, Petrol, Automatic (TC), 16.39 kmpl, 103 bhp",
+            "price": "Rs. 14.84 Lakh"
+        },
+        {
+            "variant_name": "Jimny Alpha AT Dual Tone 1462 cc, Petrol, Automatic (TC), 16.39 kmpl, 103 bhp",
+            "price": "Rs. 15.00 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 14.66 Lakh onwards",
+        "Hyderabad": "Rs. 15.63 Lakh onwards",
+        "Bangalore": "Rs. 15.70 Lakh onwards",
+        "Mumbai": "Rs. 14.91 Lakh onwards",
+        "Ahmedabad": "Rs. 14.15 Lakh onwards",
+        "Kolkata": "Rs. 14.72 Lakh onwards",
+        "Chennai": "Rs. 15.71 Lakh onwards",
+        "Pune": "Rs. 14.98 Lakh onwards",
+        "Lucknow": "Rs. 14.58 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 12.74 Lakh onwards",
+        "Mileage": "16.39 to 16.94 kmpl",
+        "Engine": "1462 cc",
+        "Fuel Type": "Petrol",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "4 Seater"
+    }
+}

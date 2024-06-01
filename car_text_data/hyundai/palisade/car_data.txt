@@ -1,0 +1,6 @@
+name: Hyundai Palisade
+link: https://www.carwale.com/hyundai-cars/palisade/
+description: Hyundai Palisade is a SUV which is expected to launch in India in Jul 2025 in the expected price range of Rs. 40.00  - 50.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {'Price': 'Rs. 40.00 Lakh onwards', 'BodyStyle': 'SUV', 'Launch Date': '8 Jul 2025 (Tentative)'}

@@ -1,0 +1,83 @@
+{
+    "name": "Hyundai Verna",
+    "link": "https://www.carwale.com/hyundai-cars/verna/",
+    "description": "The price of Hyundai Verna, a 5 seater Sedan, ranges from Rs. 11.00  - 17.42 Lakh. It is available in 14 variants, with engine options ranging from 1482 to 1497 cc and a choice of 2 transmissions: Manual and Automatic. Verna has an NCAP rating of 5 stars and comes with 6 airbags. Hyundai Verna is available in 9 colours. Users have reported a mileage of 18.6 to 20.6 kmpl for Verna.",
+    "variants": [
+        {
+            "variant_name": "Verna EX 1.5 Petrol MT 1497 cc, Petrol, Manual, 18.6 kmpl, 113 bhp",
+            "price": "Rs. 11.00 Lakh"
+        },
+        {
+            "variant_name": "Verna S 1.5 Petrol MT 1497 cc, Petrol, Manual, 18.6 kmpl, 113 bhp",
+            "price": "Rs. 11.99 Lakh"
+        },
+        {
+            "variant_name": "Verna SX 1.5 Petrol MT 1497 cc, Petrol, Manual, 18.6 kmpl, 113 bhp",
+            "price": "Rs. 13.02 Lakh"
+        },
+        {
+            "variant_name": "Verna SX 1.5 Petrol IVT 1497 cc, Petrol, Automatic (CVT), 19.6 kmpl, 113 bhp",
+            "price": "Rs. 14.27 Lakh"
+        },
+        {
+            "variant_name": "Verna SX (O)1.5 Petrol MT 1497 cc, Petrol, Manual, 18.6 kmpl, 113 bhp",
+            "price": "Rs. 14.70 Lakh"
+        },
+        {
+            "variant_name": "Verna SX 1.5 Turbo Petrol MT 1482 cc, Petrol, Manual, 20 kmpl, 158 bhp",
+            "price": "Rs. 14.87 Lakh"
+        },
+        {
+            "variant_name": "Verna SX 1.5 Turbo Petrol MT Dual Tone 1482 cc, Petrol, Manual, 20 kmpl, 158 bhp",
+            "price": "Rs. 14.87 Lakh"
+        },
+        {
+            "variant_name": "Verna SX (O) 1.5 Turbo Petrol MT 1482 cc, Petrol, Manual, 20 kmpl, 158 bhp",
+            "price": "Rs. 16.03 Lakh"
+        },
+        {
+            "variant_name": "Verna SX (O) 1.5 Turbo Petrol MT Dual Tone 1482 cc, Petrol, Manual, 20 kmpl, 158 bhp",
+            "price": "Rs. 16.03 Lakh"
+        },
+        {
+            "variant_name": "Verna SX 1.5 Turbo Petrol DCT 1482 cc, Petrol, Automatic (DCT), 20.6 kmpl, 158 bhp",
+            "price": "Rs. 16.12 Lakh"
+        },
+        {
+            "variant_name": "Verna SX 1.5 Turbo Petrol DCT Dual Tone 1482 cc, Petrol, Automatic (DCT), 20.6 kmpl, 158 bhp",
+            "price": "Rs. 16.12 Lakh"
+        },
+        {
+            "variant_name": "Verna SX (O) 1.5 Petrol IVT 1497 cc, Petrol, Automatic (CVT), 19.6 kmpl, 113 bhp",
+            "price": "Rs. 16.23 Lakh"
+        },
+        {
+            "variant_name": "Verna SX (O) 1.5 Turbo Petrol DCT 1482 cc, Petrol, Automatic (DCT), 20.6 kmpl, 158 bhp",
+            "price": "Rs. 17.42 Lakh"
+        },
+        {
+            "variant_name": "Verna SX (O) 1.5 Turbo Petrol DCT Dual Tone 1482 cc, Petrol, Automatic (DCT), 20.6 kmpl, 158 bhp",
+            "price": "Rs. 17.42 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 12.82 Lakh onwards",
+        "Hyderabad": "Rs. 13.63 Lakh onwards",
+        "Bangalore": "Rs. 13.64 Lakh onwards",
+        "Mumbai": "Rs. 13.04 Lakh onwards",
+        "Ahmedabad": "Rs. 12.47 Lakh onwards",
+        "Kolkata": "Rs. 12.91 Lakh onwards",
+        "Chennai": "Rs. 13.76 Lakh onwards",
+        "Pune": "Rs. 13.18 Lakh onwards",
+        "Lucknow": "Rs. 12.85 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 11.00 Lakh onwards",
+        "Mileage": "18.6 to 20.6 kmpl",
+        "Engine": "1482 cc & 1497 cc",
+        "Safety": "5 Star (Global NCAP)",
+        "Fuel Type": "Petrol",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

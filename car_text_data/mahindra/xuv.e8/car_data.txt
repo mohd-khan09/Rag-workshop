@@ -1,0 +1,6 @@
+name: Mahindra XUV.e8
+link: https://www.carwale.com/mahindra-cars/xuv.e8/
+description: None
+variants: []
+on_road_prices: {}
+specifications: {}

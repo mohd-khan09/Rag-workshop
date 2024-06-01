@@ -1,0 +1,103 @@
+{
+    "name": "Renault Kiger",
+    "link": "https://www.carwale.com/renault-cars/kiger/",
+    "description": "The price of Renault Kiger, a 5 seater Compact SUV, ranges from Rs. 6.00  - 11.23 Lakh. It is available in 21 variants, with an engine of 999 cc and a choice of 2 transmissions: Manual and Automatic. Kiger has an NCAP rating of 4 stars and comes with 4 airbags. Renault Kiger has a ground clearance of 205 mm  and is available in 10 colours. Users have reported a mileage of 18.2 to 19.61 kmpl for Kiger.",
+    "variants": [
+        {
+            "variant_name": "Kiger RXE 999 cc, Petrol, Manual, 19.1 kmpl, 71 bhp",
+            "price": "Rs. 6.00 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXL 999 cc, Petrol, Manual, 19.1 kmpl, 71 bhp",
+            "price": "Rs. 6.60 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXL AMT 999 cc, Petrol, Automatic (AMT), 19 kmpl, 71 bhp",
+            "price": "Rs. 7.10 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT MT 999 cc, Petrol, Manual, 19.1 kmpl, 71 bhp",
+            "price": "Rs. 7.50 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT(O) MT 999 cc, Petrol, Manual, 19.1 kmpl, 71 bhp",
+            "price": "Rs. 8.00 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT AMT 999 cc, Petrol, Automatic (AMT), 19 kmpl, 71 bhp",
+            "price": "Rs. 8.00 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT(O) MT Dual Tone 999 cc, Petrol, Manual, 19.1 kmpl, 71 bhp",
+            "price": "Rs. 8.23 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT(O) AMT 999 cc, Petrol, Automatic (AMT), 19 kmpl, 71 bhp",
+            "price": "Rs. 8.50 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT(O) AMT Dual Tone 999 cc, Petrol, Automatic (AMT), 19 kmpl, 71 bhp",
+            "price": "Rs. 8.73 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXZ MT 999 cc, Petrol, Manual, 19.1 kmpl, 71 bhp",
+            "price": "Rs. 8.80 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXZ MT Dual Tone 999 cc, Petrol, Manual, 19.1 kmpl, 71 bhp",
+            "price": "Rs. 9.03 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXZ AMT 999 cc, Petrol, Automatic (AMT), 19 kmpl, 71 bhp",
+            "price": "Rs. 9.30 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT(O) Turbo MT 999 cc, Petrol, Manual, 20.5 kmpl, 99 bhp",
+            "price": "Rs. 9.30 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT(O) Turbo MT Dual Tone 999 cc, Petrol, Manual, 20.5 kmpl, 99 bhp",
+            "price": "Rs. 9.53 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXZ AMT Dual Tone 999 cc, Petrol, Automatic (AMT), 19 kmpl, 71 bhp",
+            "price": "Rs. 9.53 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXZ Turbo MT 999 cc, Petrol, Manual, 20.5 kmpl, 99 bhp",
+            "price": "Rs. 10.00 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXZ Turbo MT Dual Tone 999 cc, Petrol, Manual, 20.5 kmpl, 99 bhp",
+            "price": "Rs. 10.23 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT (O) Turbo CVT 999 cc, Petrol, Automatic (CVT), 18.2 kmpl, 99 bhp",
+            "price": "Rs. 10.30 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXT (O) Turbo CVT Dual Tone 999 cc, Petrol, Automatic (CVT), 18.2 kmpl, 99 bhp",
+            "price": "Rs. 10.53 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXZ Turbo CVT 999 cc, Petrol, Automatic (CVT), 18.2 kmpl, 99 bhp",
+            "price": "Rs. 11.00 Lakh"
+        },
+        {
+            "variant_name": "Kiger RXZ Turbo CVT Dual Tone 999 cc, Petrol, Automatic (CVT), 18.2 kmpl, 99 bhp",
+            "price": "Rs. 11.23 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 6.71 Lakh onwards",
+        "Hyderabad": "Rs. 7.22 Lakh onwards",
+        "Bangalore": "Rs. 7.27 Lakh onwards",
+        "Mumbai": "Rs. 7.04 Lakh onwards",
+        "Ahmedabad": "Rs. 6.65 Lakh onwards",
+        "Kolkata": "Rs. 6.74 Lakh onwards",
+        "Chennai": "Rs. 7.16 Lakh onwards",
+        "Pune": "Rs. 7.05 Lakh onwards",
+        "Lucknow": "Rs. 6.88 Lakh onwards"
+    },
+    "specifications": {}
+}

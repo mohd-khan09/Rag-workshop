@@ -1,0 +1,62 @@
+{
+    "name": "MG Gloster",
+    "link": "https://www.carwale.com/mg-cars/gloster/",
+    "description": "The price of MG Gloster, a 6 seater SUV, ranges from Rs. 38.80  - 43.87 Lakh. It is available in 9 variants, with an engine of 1996 cc and a choice of 1 transmission: Automatic. Gloster has an NCAP rating of 5 stars and comes with 6 airbags. MG Gloster is available in 4 colours. ",
+    "variants": [
+        {
+            "variant_name": "Gloster Sharp 7 STR 2.0 Turbo 2WD 1996 cc, Diesel, Automatic (TC), 159 bhp",
+            "price": "Rs. 38.80 Lakh"
+        },
+        {
+            "variant_name": "Gloster Savvy 7 STR 2.0 Turbo 2WD 1996 cc, Diesel, Automatic (TC), 159 bhp",
+            "price": "Rs. 40.34 Lakh"
+        },
+        {
+            "variant_name": "Gloster Savvy 6 STR 2.0 Turbo 2WD 1996 cc, Diesel, Automatic (TC), 159 bhp",
+            "price": "Rs. 40.34 Lakh"
+        },
+        {
+            "variant_name": "Gloster Blackstorm 6 STR 2.0 Turbo 2WD 1996 cc, Diesel, Automatic (TC), 159 bhp",
+            "price": "Rs. 41.05 Lakh"
+        },
+        {
+            "variant_name": "Gloster Blackstorm 7 STR 2.0 Turbo 2WD 1996 cc, Diesel, Automatic (TC), 159 bhp",
+            "price": "Rs. 41.05 Lakh"
+        },
+        {
+            "variant_name": "Gloster Savvy 7 STR 2.0 Twin Turbo 4WD 1996 cc, Diesel, Automatic (TC), 213 bhp",
+            "price": "Rs. 43.16 Lakh"
+        },
+        {
+            "variant_name": "Gloster Savvy 6 STR 2.0 Twin Turbo 4WD 1996 cc, Diesel, Automatic (TC), 213 bhp",
+            "price": "Rs. 43.16 Lakh"
+        },
+        {
+            "variant_name": "Gloster Blackstorm 6 STR 2.0 Twin Turbo 4WD 1996 cc, Diesel, Automatic (TC), 213 bhp",
+            "price": "Rs. 43.87 Lakh"
+        },
+        {
+            "variant_name": "Gloster Blackstorm 7 STR 2.0 Twin Turbo 4WD 1996 cc, Diesel, Automatic (TC), 213 bhp",
+            "price": "Rs. 43.87 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 45.47 Lakh onwards",
+        "Hyderabad": "Rs. 48.33 Lakh onwards",
+        "Bangalore": "Rs. 48.39 Lakh onwards",
+        "Mumbai": "Rs. 47.21 Lakh onwards",
+        "Ahmedabad": "Rs. 43.59 Lakh onwards",
+        "Kolkata": "Rs. 45.15 Lakh onwards",
+        "Chennai": "Rs. 48.36 Lakh onwards",
+        "Pune": "Rs. 47.21 Lakh onwards",
+        "Lucknow": "Rs. 45.10 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 38.80 Lakh onwards",
+        "Engine": "1996 cc",
+        "Safety": "5 Star (ANCAP)",
+        "Fuel Type": "Diesel",
+        "Transmission": "Automatic",
+        "Seating Capacity": "6 & 7 Seater"
+    }
+}

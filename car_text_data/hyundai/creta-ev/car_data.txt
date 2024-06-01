@@ -1,0 +1,6 @@
+name: Hyundai Creta EV
+link: https://www.carwale.com/hyundai-cars/creta-ev/
+description: Hyundai Creta EV is a SUV which is expected to launch in India in Sep 2024 in the expected price range of Rs. 22.00  - 26.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {'Price': 'Rs. 22.00 Lakh onwards', 'BodyStyle': 'SUV', 'Launch Date': '10 Sep 2024 (Tentative)'}

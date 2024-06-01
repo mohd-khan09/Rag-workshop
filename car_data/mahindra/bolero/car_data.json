@@ -1,0 +1,37 @@
+{
+    "name": "Mahindra Bolero",
+    "link": "https://www.carwale.com/mahindra-cars/bolero/",
+    "description": "The price of Mahindra Bolero, a 7 seater Compact SUV, ranges from Rs. 9.98  - 10.91 Lakh. It is available in 3 variants, with an engine of 1493 cc and a choice of 1 transmission: Manual. Bolero comes with 2 airbags. Mahindra Bolero has a ground clearance of 180 mm  and is available in 3 colours. Users have reported a mileage of 16.5 kmpl for Bolero.",
+    "variants": [
+        {
+            "variant_name": "Bolero B4 1493 cc, Diesel, Manual, 75 bhp",
+            "price": "Rs. 9.98 Lakh"
+        },
+        {
+            "variant_name": "Bolero B6 1493 cc, Diesel, Manual, 75 bhp",
+            "price": "Rs. 10.18 Lakh"
+        },
+        {
+            "variant_name": "Bolero B6 (O) 1493 cc, Diesel, Manual, 75 bhp",
+            "price": "Rs. 10.91 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 11.50 Lakh onwards",
+        "Hyderabad": "Rs. 11.98 Lakh onwards",
+        "Bangalore": "Rs. 11.99 Lakh onwards",
+        "Mumbai": "Rs. 11.91 Lakh onwards",
+        "Ahmedabad": "Rs. 11.04 Lakh onwards",
+        "Kolkata": "Rs. 11.58 Lakh onwards",
+        "Chennai": "Rs. 11.90 Lakh onwards",
+        "Pune": "Rs. 11.91 Lakh onwards",
+        "Lucknow": "Rs. 11.37 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 9.98 Lakh onwards",
+        "Engine": "1493 cc",
+        "Fuel Type": "Diesel",
+        "Transmission": "Manual",
+        "Seating Capacity": "7 Seater"
+    }
+}

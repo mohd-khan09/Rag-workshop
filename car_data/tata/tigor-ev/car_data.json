@@ -1,0 +1,44 @@
+{
+    "name": "Tata Tigor EV",
+    "link": "https://www.carwale.com/tata-cars/tigor-ev/",
+    "description": "The price of Tata Tigor EV, a Compact Sedan, ranges from Rs. 12.49  - 13.75 Lakh. It is available in 4 variants. Tigor EV has an NCAP rating of 4 stars and comes with 2 airbags. Tata Tigor EV has a ground clearance of 172 mm  and is available in 3 colours. Users have reported a driving range of 315 Km for Tigor EV.",
+    "variants": [
+        {
+            "variant_name": "Tigor EV XE 26 kWh, Electric, Automatic, 315 Km",
+            "price": "Rs. 12.49 Lakh"
+        },
+        {
+            "variant_name": "Tigor EV XT 26 kWh, Electric, Automatic, 315 Km",
+            "price": "Rs. 12.99 Lakh"
+        },
+        {
+            "variant_name": "Tigor EV XZ Plus 26 kWh, Electric, Automatic, 315 Km",
+            "price": "Rs. 13.49 Lakh"
+        },
+        {
+            "variant_name": "Tigor EV XZ Plus LUX 26 kWh, Electric, Automatic, 315 Km",
+            "price": "Rs. 13.75 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 13.09 Lakh onwards",
+        "Hyderabad": "Rs. 14.86 Lakh onwards",
+        "Bangalore": "Rs. 13.37 Lakh onwards",
+        "Mumbai": "Rs. 13.24 Lakh onwards",
+        "Ahmedabad": "Rs. 13.98 Lakh onwards",
+        "Kolkata": "Rs. 13.20 Lakh onwards",
+        "Chennai": "Rs. 13.20 Lakh onwards",
+        "Pune": "Rs. 13.51 Lakh onwards",
+        "Lucknow": "Rs. 13.22 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 12.49 Lakh onwards",
+        "Fuel Type": "Electric",
+        "Driving Range": "315 km",
+        "Charging Time": "9.4 hrs",
+        "Safety": "4 Star (Global NCAP)",
+        "Transmission": "Automatic",
+        "Seating Capacity": "5 Seater",
+        "Battery Capacity": "26 kWh"
+    }
+}

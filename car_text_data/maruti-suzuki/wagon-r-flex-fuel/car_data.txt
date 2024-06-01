@@ -1,0 +1,6 @@
+name: Maruti Wagon R Flex Fuel
+link: https://www.carwale.com/maruti-suzuki-cars/wagon-r-flex-fuel/
+description: None
+variants: []
+on_road_prices: {}
+specifications: {}

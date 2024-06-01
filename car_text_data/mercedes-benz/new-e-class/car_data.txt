@@ -1,0 +1,6 @@
+name: Mercedes-Benz New E-Class
+link: https://www.carwale.com/mercedes-benz-cars/new-e-class/
+description: Mercedes-Benz New E-Class is a Sedan which is expected to launch in India in Dec 2024 in the expected price range of Rs. 80.00  - 90.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {}

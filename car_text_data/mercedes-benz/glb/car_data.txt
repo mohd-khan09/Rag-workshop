@@ -1,0 +1,6 @@
+name: Mercedes-Benz GLB
+link: https://www.carwale.com/mercedes-benz-cars/glb/
+description: The price of Mercedes-Benz GLB, a 7 seater SUV, ranges from Rs. 60.80  - 67.80 Lakh. It is available in 3 variants, with engine options ranging from 1332 to 1950 cc and a choice of 1 transmission: Automatic. GLB has an NCAP rating of 5 stars and comes with 7 airbags. Mercedes-Benz GLB is available in 5 colours. 
+variants: [{'variant_name': 'GLB 200 Progressive Line 1332 cc, Petrol, Automatic (DCT), 160 bhp', 'price': 'Rs. 60.80 Lakh'}, {'variant_name': 'GLB 220d Progressive Line 1950 cc, Diesel, Automatic (DCT), 188 bhp', 'price': 'Rs. 64.70 Lakh'}, {'variant_name': 'GLB 220d 4MATIC AMG Line 1950 cc, Diesel, Automatic (DCT), 188 bhp', 'price': 'Rs. 67.80 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 70.59 Lakh onwards', 'Hyderabad': 'Rs. 75.00 Lakh onwards', 'Bangalore': 'Rs. 75.01 Lakh onwards', 'Mumbai': 'Rs. 72.12 Lakh onwards', 'Ahmedabad': 'Rs. 66.49 Lakh onwards', 'Kolkata': 'Rs. 70.14 Lakh onwards', 'Chennai': 'Rs. 76.23 Lakh onwards', 'Pune': 'Rs. 72.12 Lakh onwards', 'Lucknow': 'Rs. 70.07 Lakh onwards'}
+specifications: {'Fuel Type': 'Petrol & Diesel', 'Engine': '1332 cc & 1950 cc', 'Power and Torque': '160 to 188 bhp & 250 to 400 Nm', 'DriveTrain': 'FWD', 'Acceleration': '7.6 to 9.1 seconds', 'Top Speed': '207 to 220 kmph'}

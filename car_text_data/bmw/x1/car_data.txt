@@ -1,0 +1,6 @@
+name: BMW X1
+link: https://www.carwale.com/bmw-cars/x1/
+description: The price of BMW X1, a 5 seater SUV, ranges from Rs. 49.50  - 52.50 Lakh. It is available in 2 variants, with engine options ranging from 1499 to 1995 cc and a choice of 1 transmission: Automatic. X1 has an NCAP rating of 5 stars and comes with 6 airbags. BMW X1 has a ground clearance of 183 mm  and is available in 6 colours. Users have reported a mileage of 16.35 to 20.37 kmpl for X1.
+variants: [{'variant_name': 'X1 sDrive18i M Sport 1499 cc, Petrol, Automatic (DCT), 16.35 kmpl, 134 bhp', 'price': 'Rs. 49.50 Lakh'}, {'variant_name': 'X1 sDrive18d M Sport 1995 cc, Diesel, Automatic (DCT), 20.37 kmpl, 148 bhp', 'price': 'Rs. 52.50 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 56.31 Lakh onwards', 'Hyderabad': 'Rs. 63.17 Lakh onwards', 'Bangalore': 'Rs. 62.27 Lakh onwards', 'Mumbai': 'Rs. 59.40 Lakh onwards', 'Ahmedabad': 'Rs. 56.78 Lakh onwards', 'Kolkata': 'Rs. 55.74 Lakh onwards', 'Chennai': 'Rs. 63.61 Lakh onwards', 'Pune': 'Rs. 58.80 Lakh onwards', 'Lucknow': 'Rs. 57.13 Lakh onwards'}
+specifications: {}

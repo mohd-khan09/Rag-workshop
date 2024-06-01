@@ -1,0 +1,31 @@
+{
+    "name": "Audi Q8 Sportback e-tron",
+    "link": "https://www.carwale.com/audi-cars/q8-sportback-e-tron/",
+    "description": "The price of Audi Q8 Sportback e-tron, a 5 seater Coupe, ranges from Rs. 1.19  - 1.32 Crore. It is available in 2 variants and a choice of 1 transmission: Automatic. Q8 Sportback e-tron has an NCAP rating of 5 stars and comes with 8 airbags. Audi Q8 Sportback e-tron is available in 9 colours. Users have reported a driving range of 552.5 Km for Q8 Sportback e-tron.",
+    "variants": [
+        {
+            "variant_name": "Q8 Sportback e-tron 50 95 kWh, Electric, Automatic, 505 Km",
+            "price": "Rs. 1.19 Crore"
+        },
+        {
+            "variant_name": "Q8 Sportback e-tron 55 114 kWh, Electric, Automatic, 600 Km",
+            "price": "Rs. 1.32 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.26 Crore onwards",
+        "Hyderabad": "Rs. 1.44 Crore onwards",
+        "Bangalore": "Rs. 1.26 Crore onwards",
+        "Mumbai": "Rs. 1.26 Crore onwards",
+        "Ahmedabad": "Rs. 1.33 Crore onwards",
+        "Kolkata": "Rs. 1.26 Crore onwards",
+        "Chennai": "Rs. 1.26 Crore onwards",
+        "Pune": "Rs. 1.26 Crore onwards",
+        "Lucknow": "Rs. 1.26 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Electric",
+        "Acceleration": "5.6 to 6 seconds",
+        "Top Speed": "200 kmph"
+    }
+}

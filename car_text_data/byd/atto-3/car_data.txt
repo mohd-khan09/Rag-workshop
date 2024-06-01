@@ -1,0 +1,6 @@
+name: BYD Atto 3
+link: https://www.carwale.com/byd-cars/atto-3/
+description: The price of BYD Atto 3, a SUV, ranges from Rs. 33.99  - 34.49 Lakh. It is available in 2 variants. Atto 3 comes with 7 airbags. BYD Atto 3 has a ground clearance of 175 mm  and is available in 5 colours. Users have reported a driving range of 521 Km for Atto 3.
+variants: [{'variant_name': 'Atto 3 Extended Range 60.48 kWh, Electric, Automatic, 521 Km', 'price': 'Rs. 33.99 Lakh'}, {'variant_name': 'Atto 3 Special Edition 60.48 kWh, Electric, Automatic, 521 Km', 'price': 'Rs. 34.49 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 36.01 Lakh onwards', 'Hyderabad': 'Rs. 41.07 Lakh onwards', 'Bangalore': 'Rs. 35.98 Lakh onwards', 'Mumbai': 'Rs. 35.98 Lakh onwards', 'Ahmedabad': 'Rs. 38.01 Lakh onwards', 'Kolkata': 'Rs. 35.97 Lakh onwards', 'Chennai': 'Rs. 35.99 Lakh onwards', 'Pune': 'Rs. 35.98 Lakh onwards', 'Lucknow': 'Rs. 35.94 Lakh onwards'}
+specifications: {'Price': 'Rs. 33.99 Lakh onwards', 'Fuel Type': 'Electric', 'Driving Range': '521 km', 'Transmission': 'Automatic', 'Seating Capacity': '5 Seater', 'Battery Capacity': '60.48 kWh'}

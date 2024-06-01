@@ -1,0 +1,6 @@
+name: Audi A8 L
+link: https://www.carwale.com/audi-cars/a8-l/
+description: The price of Audi A8 L, a 4 seater Sedan, ranges from Rs. 1.34  - 1.63 Crore. It is available in 2 variants, with an engine of 2995 cc and a choice of 1 transmission: Automatic. A8 L comes with 6 airbags. Audi A8 L is available in 8 colours. 
+variants: [{'variant_name': 'A8 L Celebration Edition 2995 cc, Mild Hybrid(Electric + Petrol), Automatic, 344 bhp', 'price': 'Rs. 1.34 Crore'}, {'variant_name': 'A8 L Technology 2995 cc, Mild Hybrid(Electric + Petrol), Automatic, 344 bhp', 'price': 'Rs. 1.63 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 1.55 Crore onwards', 'Hyderabad': 'Rs. 1.66 Crore onwards', 'Bangalore': 'Rs. 1.71 Crore onwards', 'Mumbai': 'Rs. 1.59 Crore onwards', 'Ahmedabad': 'Rs. 1.47 Crore onwards', 'Kolkata': 'Rs. 1.54 Crore onwards', 'Chennai': 'Rs. 1.68 Crore onwards', 'Pune': 'Rs. 1.59 Crore onwards', 'Lucknow': 'Rs. 1.55 Crore onwards'}
+specifications: {'Fuel Type': 'Hybrid', 'Engine': '2995 cc', 'Power and Torque': '344 bhp & 500 Nm', 'DriveTrain': 'AWD', 'Acceleration': '5.7 seconds', 'Top Speed': '250 kmph'}

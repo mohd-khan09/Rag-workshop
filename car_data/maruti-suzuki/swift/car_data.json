@@ -1,0 +1,70 @@
+{
+    "name": "Maruti Swift",
+    "link": "https://www.carwale.com/maruti-suzuki-cars/swift/",
+    "description": "The price of Maruti Swift, a 5 seater Hatchback, ranges from Rs. 6.49  - 9.64 Lakh. It is available in 11 variants, with an engine of 1197 cc and a choice of 2 transmissions: Manual and Automatic. Swift comes with 6 airbags. Maruti Swift has a ground clearance of 163 mm  and is available in 9 colours. Users have reported a mileage of 24.8 to 25.75 kmpl for Swift.",
+    "variants": [
+        {
+            "variant_name": "Swift LXi 1197 cc, Petrol, Manual, 24.8 kmpl, 80 bhp",
+            "price": "Rs. 6.49 Lakh"
+        },
+        {
+            "variant_name": "Swift VXi 1197 cc, Petrol, Manual, 24.8 kmpl, 80 bhp",
+            "price": "Rs. 7.29 Lakh"
+        },
+        {
+            "variant_name": "Swift VXi (O) 1197 cc, Petrol, Manual, 24.8 kmpl, 80 bhp",
+            "price": "Rs. 7.56 Lakh"
+        },
+        {
+            "variant_name": "Swift VXi AMT 1197 cc, Petrol, Automatic (AMT), 25.75 kmpl, 80 bhp",
+            "price": "Rs. 7.79 Lakh"
+        },
+        {
+            "variant_name": "Swift VXi (O) AMT 1197 cc, Petrol, Automatic (AMT), 25.75 kmpl, 80 bhp",
+            "price": "Rs. 8.06 Lakh"
+        },
+        {
+            "variant_name": "Swift ZXi 1197 cc, Petrol, Manual, 24.8 kmpl, 80 bhp",
+            "price": "Rs. 8.29 Lakh"
+        },
+        {
+            "variant_name": "Swift ZXi AMT 1197 cc, Petrol, Automatic (AMT), 25.75 kmpl, 80 bhp",
+            "price": "Rs. 8.79 Lakh"
+        },
+        {
+            "variant_name": "Swift ZXi Plus 1197 cc, Petrol, Manual, 24.8 kmpl, 80 bhp",
+            "price": "Rs. 8.99 Lakh"
+        },
+        {
+            "variant_name": "Swift ZXi Plus Dual Tone 1197 cc, Petrol, Manual, 24.8 kmpl, 80 bhp",
+            "price": "Rs. 9.14 Lakh"
+        },
+        {
+            "variant_name": "Swift ZXi Plus AMT 1197 cc, Petrol, Automatic (AMT), 25.75 kmpl, 80 bhp",
+            "price": "Rs. 9.49 Lakh"
+        },
+        {
+            "variant_name": "Swift ZXi Plus Dual Tone AMT 1197 cc, Petrol, Automatic (AMT), 25.75 kmpl, 80 bhp",
+            "price": "Rs. 9.64 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 7.43 Lakh onwards",
+        "Hyderabad": "Rs. 7.85 Lakh onwards",
+        "Bangalore": "Rs. 7.86 Lakh onwards",
+        "Mumbai": "Rs. 7.67 Lakh onwards",
+        "Ahmedabad": "Rs. 7.24 Lakh onwards",
+        "Kolkata": "Rs. 7.59 Lakh onwards",
+        "Chennai": "Rs. 7.80 Lakh onwards",
+        "Pune": "Rs. 7.67 Lakh onwards",
+        "Lucknow": "Rs. 7.45 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 6.49 Lakh onwards",
+        "Mileage": "24.8 to 25.75 kmpl",
+        "Engine": "1197 cc",
+        "Fuel Type": "Petrol",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

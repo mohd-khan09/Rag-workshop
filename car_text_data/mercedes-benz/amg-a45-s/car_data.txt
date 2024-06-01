@@ -1,0 +1,6 @@
+name: Mercedes-Benz AMG A45 S
+link: https://www.carwale.com/mercedes-benz-cars/amg-a45-s/
+description: The price of Mercedes-Benz AMG A45 S, a 5 seater Hatchback, starts from  of Rs. 93.65 Lakh. It is available in 1 variant, with an engine of 1991 cc and a choice of 1 transmission: Automatic. AMG A45 S has an NCAP rating of 5 stars and comes with 7 airbags. Mercedes-Benz AMG A45 S is available in 6 colours. Users have reported a mileage of 12 kmpl for AMG A45 S.
+variants: [{'variant_name': 'AMG A45 S 4Matic Plus 1991 cc, Petrol, Automatic (DCT), 12 kmpl, 421 bhp', 'price': 'Rs. 93.65 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 1.08 Crore onwards', 'Hyderabad': 'Rs. 1.16 Crore onwards', 'Bangalore': 'Rs. 1.16 Crore onwards', 'Mumbai': 'Rs. 1.11 Crore onwards', 'Ahmedabad': 'Rs. 1.03 Crore onwards', 'Kolkata': 'Rs. 1.08 Crore onwards', 'Chennai': 'Rs. 1.18 Crore onwards', 'Pune': 'Rs. 1.11 Crore onwards', 'Lucknow': 'Rs. 1.08 Crore onwards'}
+specifications: {'Price': 'Rs. 93.65 Lakh', 'Mileage': '12 kmpl', 'Engine': '1991 cc', 'Safety': '5 Star (Euro NCAP)', 'Fuel Type': 'Petrol', 'Transmission': 'Automatic', 'Seating Capacity': '5 Seater'}

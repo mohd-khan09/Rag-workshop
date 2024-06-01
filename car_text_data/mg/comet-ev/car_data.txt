@@ -1,0 +1,6 @@
+name: MG Comet EV
+link: https://www.carwale.com/mg-cars/comet-ev/
+description: The price of MG Comet EV, a Hatchback, ranges from Rs. 6.99  - 9.40 Lakh. It is available in 6 variants. Comet EV comes with 2 airbags. MG Comet EV is available in 6 colours. Users have reported a driving range of 230 Km for Comet EV.
+variants: [{'variant_name': 'Comet EV Executive 17.3 kWh, Electric, Automatic, 230 Km', 'price': 'Rs. 6.99 Lakh'}, {'variant_name': 'Comet EV Excite 17.3 kWh, Electric, Automatic, 230 Km', 'price': 'Rs. 7.98 Lakh'}, {'variant_name': 'Comet EV Excite FC 17.3 kWh, Electric, Automatic, 230 Km', 'price': 'Rs. 8.34 Lakh'}, {'variant_name': 'Comet EV Exclusive 17.3 kWh, Electric, Automatic, 230 Km', 'price': 'Rs. 8.88 Lakh'}, {'variant_name': 'Comet EV Exclusive FC 17.3 kWh, Electric, Automatic, 230 Km', 'price': 'Rs. 9.24 Lakh'}, {'variant_name': 'JUST LAUNCHED JUST LAUNCHED Comet EV EverGreen 17.3 kWh, Electric, Automatic, 230 Km', 'price': 'Rs. 9.40 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 7.43 Lakh onwards', 'Hyderabad': 'Rs. 8.38 Lakh onwards', 'Bangalore': 'Rs. 7.52 Lakh onwards', 'Mumbai': 'Rs. 7.38 Lakh onwards', 'Ahmedabad': 'Rs. 7.38 Lakh onwards', 'Kolkata': 'Rs. 7.38 Lakh onwards', 'Chennai': 'Rs. 7.57 Lakh onwards', 'Pune': 'Rs. 7.38 Lakh onwards', 'Lucknow': 'Rs. 7.38 Lakh onwards'}
+specifications: {}

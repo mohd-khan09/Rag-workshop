@@ -1,0 +1,33 @@
+{
+    "name": "BMW 7 Series",
+    "link": "https://www.carwale.com/bmw-cars/7-series/",
+    "description": "The price of BMW 7 Series, a 5 seater Sedan, ranges from Rs. 1.82  - 1.84 Crore. It is available in 2 variants, with engine options ranging from 2993 to 2998 cc and a choice of 1 transmission: Automatic. 7 Series comes with 7 airbags. BMW 7 Series is available in 7 colours. Users have reported a mileage of 12.61 to 16.55 kmpl for 7 Series.",
+    "variants": [
+        {
+            "variant_name": "7 Series 740i M Sport 2998 cc, Petrol, Automatic (TC), 12.61 kmpl, 375 bhp",
+            "price": "Rs. 1.82 Crore"
+        },
+        {
+            "variant_name": "7 Series 740d M Sport 2993 cc, Diesel, Automatic (TC), 16.55 kmpl, 281 bhp",
+            "price": "Rs. 1.84 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 2.06 Crore onwards",
+        "Hyderabad": "Rs. 2.30 Crore onwards",
+        "Bangalore": "Rs. 2.29 Crore onwards",
+        "Mumbai": "Rs. 2.13 Crore onwards",
+        "Ahmedabad": "Rs. 2.07 Crore onwards",
+        "Kolkata": "Rs. 2.03 Crore onwards",
+        "Chennai": "Rs. 2.31 Crore onwards",
+        "Pune": "Rs. 2.15 Crore onwards",
+        "Lucknow": "Rs. 2.09 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Petrol & Diesel",
+        "Engine": "2993 cc & 2998 cc",
+        "Power and Torque": "281 to 375 bhp & 520 to 650 Nm",
+        "DriveTrain": "RWD",
+        "Acceleration": "5.4 to 6 seconds"
+    }
+}

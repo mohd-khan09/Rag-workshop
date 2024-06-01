@@ -1,0 +1,6 @@
+name: Audi Q3 Sportback
+link: https://www.carwale.com/audi-cars/q3-sportback/
+description: The price of Audi Q3 Sportback, a 5 seater Coupe, ranges from Rs. 54.22  - 55.71 Lakh. It is available in 2 variants, with an engine of 1984 cc and a choice of 1 transmission: Automatic. Q3 Sportback has an NCAP rating of 5 stars. Audi Q3 Sportback is available in 5 colours. 
+variants: [{'variant_name': 'Q3 Sportback Technology Plus S-line 1984 cc, Petrol, Automatic (DCT), 193 bhp', 'price': 'Rs. 54.22 Lakh'}, {'variant_name': 'JUST LAUNCHED JUST LAUNCHED Q3 Sportback Bold Edition 1984 cc, Petrol, Automatic (DCT), 193 bhp', 'price': 'Rs. 55.71 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 62.90 Lakh onwards', 'Hyderabad': 'Rs. 67.20 Lakh onwards', 'Bangalore': 'Rs. 67.21 Lakh onwards', 'Mumbai': 'Rs. 64.63 Lakh onwards', 'Ahmedabad': 'Rs. 59.61 Lakh onwards', 'Kolkata': 'Rs. 62.91 Lakh onwards', 'Chennai': 'Rs. 69.17 Lakh onwards', 'Pune': 'Rs. 64.63 Lakh onwards', 'Lucknow': 'Rs. 62.80 Lakh onwards'}
+specifications: {'Fuel Type': 'Petrol', 'Engine': '1984 cc', 'Power and Torque': '193 bhp & 320 Nm', 'DriveTrain': 'AWD', 'Acceleration': '7.3 seconds', 'Top Speed': '220 kmph'}

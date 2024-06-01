@@ -1,0 +1,6 @@
+name: MG Gloster facelift
+link: https://www.carwale.com/mg-cars/gloster-facelift/
+description: MG Gloster facelift is a SUV which is expected to launch in India in Jun 2024 in the expected price range of Rs. 40.00  - 45.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {'Price': 'Rs. 40.00 Lakh onwards', 'BodyStyle': 'SUV', 'Launch Date': '24 Jun 2024 (Tentative)'}

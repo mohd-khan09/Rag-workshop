@@ -1,0 +1,6 @@
+name: Skoda Octavia facelift
+link: https://www.carwale.com/skoda-cars/octavia-facelift/
+description: Skoda Octavia facelift is a Sedan which is expected to launch in India in Dec 2024 in the expected price range of Rs. 35.00  - 40.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {}

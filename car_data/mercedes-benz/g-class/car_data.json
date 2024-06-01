@@ -1,0 +1,38 @@
+{
+    "name": "Mercedes-Benz G-Class",
+    "link": "https://www.carwale.com/mercedes-benz-cars/g-class/",
+    "description": "The price of Mercedes-Benz G-Class, a 5 seater SUV, ranges from Rs. 2.55  - 4.00 Crore. It is available in 3 variants, with engine options ranging from 2925 to 3982 cc and a choice of 1 transmission: Automatic. G-Class has an NCAP rating of 5 stars and comes with 9 airbags. Mercedes-Benz G-Class has a ground clearance of 241 mm  and is available in 5 colours. Users have reported a mileage of 0 kmpl for G-Class.",
+    "variants": [
+        {
+            "variant_name": "G-Class Adventure Edition 2925 cc, Diesel, Automatic (TC), 326 bhp",
+            "price": "Rs. 2.55 Crore"
+        },
+        {
+            "variant_name": "G-Class G 400 d AMG Line 2925 cc, Diesel, Automatic (TC), 326 bhp",
+            "price": "Rs. 2.55 Crore"
+        },
+        {
+            "variant_name": "G-Class AMG G 63 Grand Edition 3982 cc, Petrol, Automatic (TC), 6.1 kmpl, 577 bhp",
+            "price": "Rs. 4.00 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 3.00 Crore onwards",
+        "Hyderabad": "Rs. 3.14 Crore onwards",
+        "Bangalore": "Rs. 3.14 Crore onwards",
+        "Mumbai": "Rs. 3.07 Crore onwards",
+        "Ahmedabad": "Rs. 2.84 Crore onwards",
+        "Kolkata": "Rs. 2.94 Crore onwards",
+        "Chennai": "Rs. 3.19 Crore onwards",
+        "Pune": "Rs. 3.07 Crore onwards",
+        "Lucknow": "Rs. 2.93 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Diesel & Petrol",
+        "Engine": "2925 cc & 3982 cc",
+        "Power and Torque": "326 to 577 bhp & 700 to 850 Nm",
+        "DriveTrain": "4WD / AWD",
+        "Acceleration": "4.5 to 6.4 seconds",
+        "Top Speed": "210 to 220 kmph"
+    }
+}

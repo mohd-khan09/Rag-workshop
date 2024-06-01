@@ -1,0 +1,6 @@
+name: Skoda New Kodiaq
+link: https://www.carwale.com/skoda-cars/new-kodiaq/
+description: Skoda New Kodiaq is a SUV which is expected to launch in India in Nov 2024 in the expected price range of Rs. 45.00  - 55.00 Lakh. It is available in 1 variant with 1 transmission option : Automatic. 
+variants: []
+on_road_prices: {}
+specifications: {'Fuel Type': 'Petrol', 'Engine': '1984 cc', 'Power and Torque': '188 bhp & 320 Nm', 'DriveTrain': '4WD / AWD', 'Acceleration': '7.7 seconds'}

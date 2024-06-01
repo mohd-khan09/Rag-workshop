@@ -1,0 +1,13 @@
+prefix=/Users/mohammedkhan/miniconda3/envs/rag-workshop
+exec_prefix=/Users/mohammedkhan/miniconda3/envs/rag-workshop
+libdir=/Users/mohammedkhan/miniconda3/envs/rag-workshop/lib
+sharedlibdir=/Users/mohammedkhan/miniconda3/envs/rag-workshop/lib
+includedir=/Users/mohammedkhan/miniconda3/envs/rag-workshop/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,6 @@
+name: Tata Altroz Racer
+link: https://www.carwale.com/tata-cars/altroz-racer/
+description: None
+variants: []
+on_road_prices: {}
+specifications: {}

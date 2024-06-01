@@ -1,0 +1,6 @@
+name: Tata Safari EV
+link: https://www.carwale.com/tata-cars/safari-ev/
+description: Tata Safari EV is a SUV which is expected to launch in India in Jan 2025 in the expected price range of Rs. 26.00  - 30.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {'Price': 'Rs. 26.00 Lakh onwards', 'BodyStyle': 'SUV', 'Launch Date': '21 Jan 2025 (Tentative)'}

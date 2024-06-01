@@ -1,0 +1,6 @@
+name: Mahindra Five-door Thar
+link: https://www.carwale.com/mahindra-cars/five-door-thar/
+description: Mahindra Five-door Thar is a SUV which is expected to launch in India in Aug 2024 in the expected price range of Rs. 16.00  - 20.00 Lakh. It is available in 2 variants with 2 transmission options : Automatic and Manual. 
+variants: []
+on_road_prices: {}
+specifications: {'Price': 'Rs. 16.00 Lakh onwards', 'Fuel Type': 'Petrol & Diesel', 'Transmission': 'Automatic & Manual', 'BodyStyle': 'SUV', 'Launch Date': '15 Aug 2024'}

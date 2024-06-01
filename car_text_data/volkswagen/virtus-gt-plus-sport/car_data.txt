@@ -1,0 +1,6 @@
+name: Volkswagen Virtus GT Plus Sport
+link: https://www.carwale.com/volkswagen-cars/virtus-gt-plus-sport/
+description: None
+variants: []
+on_road_prices: {}
+specifications: {}

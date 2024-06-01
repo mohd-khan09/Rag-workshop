@@ -1,0 +1,6 @@
+name: Mercedes-Benz A-Class Limousine
+link: https://www.carwale.com/mercedes-benz-cars/a-class-limousine/
+description: The price of Mercedes-Benz A-Class Limousine, a 5 seater Sedan, ranges from Rs. 46.05  - 48.55 Lakh. It is available in 2 variants, with engine options ranging from 1332 to 1950 cc and a choice of 1 transmission: Automatic. A-Class Limousine has an NCAP rating of 5 stars and comes with 7 airbags. Mercedes-Benz A-Class Limousine is available in 4 colours. Users have reported a mileage of 17.5 kmpl for A-Class Limousine.
+variants: [{'variant_name': 'A-Class Limousine 200 1332 cc, Petrol, Automatic (DCT), 17.5 kmpl, 161 bhp', 'price': 'Rs. 46.05 Lakh'}, {'variant_name': 'A-Class Limousine 200d 1950 cc, Diesel, Automatic (DCT), 147 bhp', 'price': 'Rs. 48.55 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 52.82 Lakh onwards', 'Hyderabad': 'Rs. 57.17 Lakh onwards', 'Bangalore': 'Rs. 56.91 Lakh onwards', 'Mumbai': 'Rs. 54.73 Lakh onwards', 'Ahmedabad': 'Rs. 50.46 Lakh onwards', 'Kolkata': 'Rs. 53.22 Lakh onwards', 'Chennai': 'Rs. 57.84 Lakh onwards', 'Pune': 'Rs. 54.73 Lakh onwards', 'Lucknow': 'Rs. 53.17 Lakh onwards'}
+specifications: {'Fuel Type': 'Petrol & Diesel', 'Engine': '1332 cc & 1950 cc', 'Power and Torque': '147 to 161 bhp & 270 to 320 Nm', 'DriveTrain': 'FWD', 'Acceleration': '8.3 to 8.4 seconds', 'Top Speed': '227 to 230 kmph'}

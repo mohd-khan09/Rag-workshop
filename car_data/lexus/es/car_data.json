@@ -1,0 +1,31 @@
+{
+    "name": "Lexus ES",
+    "link": "https://www.carwale.com/lexus-cars/es/",
+    "description": "The price of Lexus ES, a 5 seater Sedan, ranges from Rs. 63.10  - 69.70 Lakh. It is available in 2 variants, with an engine of 2487 cc and a choice of 1 transmission: Automatic. ES has an NCAP rating of 5 stars and comes with 10 airbags. Lexus ES has a ground clearance of 150 mm  and is available in 6 colours. Users have reported a mileage of 22.5 kmpl for ES.",
+    "variants": [
+        {
+            "variant_name": "ES 300h Exquisite 2487 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 22.5 kmpl, 176 bhp",
+            "price": "Rs. 63.10 Lakh"
+        },
+        {
+            "variant_name": "ES 300h Luxury 2487 cc, Hybrid (Electric + Petrol), Automatic (e-CVT), 22.5 kmpl, 176 bhp",
+            "price": "Rs. 69.70 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 73.10 Lakh onwards",
+        "Hyderabad": "Rs. 78.11 Lakh onwards",
+        "Bangalore": "Rs. 78.11 Lakh onwards",
+        "Mumbai": "Rs. 75.12 Lakh onwards",
+        "Ahmedabad": "Rs. 69.27 Lakh onwards",
+        "Kolkata": "Rs. 73.06 Lakh onwards",
+        "Chennai": "Rs. 79.38 Lakh onwards",
+        "Pune": "Rs. 75.12 Lakh onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Hybrid",
+        "Engine": "2487 cc",
+        "Power and Torque": "176 bhp & 221 Nm",
+        "DriveTrain": "FWD"
+    }
+}

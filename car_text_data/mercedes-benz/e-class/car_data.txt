@@ -1,0 +1,6 @@
+name: Mercedes-Benz E-Class
+link: https://www.carwale.com/mercedes-benz-cars/e-class/
+description: The price of Mercedes-Benz E-Class, a 5 seater Sedan, ranges from Rs. 76.05  - 89.15 Lakh. It is available in 2 variants, with engine options ranging from 1991 to 2925 cc and a choice of 1 transmission: Automatic. E-Class has an NCAP rating of 5 stars and comes with 7 airbags. Mercedes-Benz E-Class is available in 4 colours. 
+variants: [{'variant_name': 'E-Class E 200 Exclusive 1991 cc, Petrol, Automatic (TC), 194 bhp', 'price': 'Rs. 76.05 Lakh'}, {'variant_name': 'E-Class E350d Elite 2925 cc, Diesel, Automatic (TC), 282 bhp', 'price': 'Rs. 89.15 Lakh'}]
+on_road_prices: {'Delhi': 'Rs. 87.83 Lakh onwards', 'Hyderabad': 'Rs. 94.02 Lakh onwards', 'Bangalore': 'Rs. 94.03 Lakh onwards', 'Mumbai': 'Rs. 90.42 Lakh onwards', 'Ahmedabad': 'Rs. 83.37 Lakh onwards', 'Kolkata': 'Rs. 87.93 Lakh onwards', 'Chennai': 'Rs. 95.55 Lakh onwards', 'Pune': 'Rs. 90.42 Lakh onwards', 'Lucknow': 'Rs. 87.85 Lakh onwards'}
+specifications: {'Fuel Type': 'Petrol & Diesel', 'Engine': '1991 cc & 2925 cc', 'Power and Torque': '194 to 282 bhp & 320 to 600 Nm', 'DriveTrain': 'RWD', 'Acceleration': '6.1 to 7.6 seconds', 'Top Speed': '240 to 250 kmph'}

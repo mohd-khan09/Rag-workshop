@@ -1,0 +1,6 @@
+name: Mahindra BE.07
+link: https://www.carwale.com/mahindra-cars/be.07/
+description: None
+variants: []
+on_road_prices: {}
+specifications: {}

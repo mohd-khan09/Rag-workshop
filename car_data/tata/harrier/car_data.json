@@ -1,0 +1,127 @@
+{
+    "name": "Tata Harrier",
+    "link": "https://www.carwale.com/tata-cars/harrier/",
+    "description": "The price of Tata Harrier, a 5 seater SUV, ranges from Rs. 15.49  - 26.44 Lakh. It is available in 25 variants, with an engine of 1956 cc and a choice of 2 transmissions: Manual and Automatic. Harrier has an NCAP rating of 5 stars and comes with 7 airbags. Tata Harrier is available in 7 colours. Users have reported a mileage of 14.6 to 16.8 kmpl for Harrier.",
+    "variants": [
+        {
+            "variant_name": "Harrier Smart 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 15.49 Lakh"
+        },
+        {
+            "variant_name": "Harrier Smart (O) 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 15.99 Lakh"
+        },
+        {
+            "variant_name": "Harrier Pure 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 16.99 Lakh"
+        },
+        {
+            "variant_name": "Harrier Pure (O) 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 17.49 Lakh"
+        },
+        {
+            "variant_name": "Harrier Pure Plus 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 18.69 Lakh"
+        },
+        {
+            "variant_name": "Harrier Pure Plus S 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 19.69 Lakh"
+        },
+        {
+            "variant_name": "Harrier Pure Plus AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 19.99 Lakh"
+        },
+        {
+            "variant_name": "Harrier Pure Plus S Dark Edition 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 19.99 Lakh"
+        },
+        {
+            "variant_name": "Harrier Adventure 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 20.19 Lakh"
+        },
+        {
+            "variant_name": "Harrier Pure Plus S AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 21.09 Lakh"
+        },
+        {
+            "variant_name": "Harrier Pure Plus S Dark Edition AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 21.39 Lakh"
+        },
+        {
+            "variant_name": "Harrier Adventure Plus 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 21.69 Lakh"
+        },
+        {
+            "variant_name": "Harrier Adventure Plus Dark Edition 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 22.24 Lakh"
+        },
+        {
+            "variant_name": "Harrier Adventure Plus A 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 22.69 Lakh"
+        },
+        {
+            "variant_name": "Harrier Fearless Dual Tone 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 22.99 Lakh"
+        },
+        {
+            "variant_name": "Harrier Adventure Plus AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 23.09 Lakh"
+        },
+        {
+            "variant_name": "Harrier Fearless Dark Edition 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 23.54 Lakh"
+        },
+        {
+            "variant_name": "Harrier Adventure Plus Dark Edition AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 23.64 Lakh"
+        },
+        {
+            "variant_name": "Harrier Adventure Plus A AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 24.09 Lakh"
+        },
+        {
+            "variant_name": "Harrier Fearless Dual Tone AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 24.39 Lakh"
+        },
+        {
+            "variant_name": "Harrier Fearless Plus Dual Tone 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 24.49 Lakh"
+        },
+        {
+            "variant_name": "Harrier Fearless Dark Edition AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 24.94 Lakh"
+        },
+        {
+            "variant_name": "Harrier Fearless Plus Dark Edition 1956 cc, Diesel, Manual, 16.8 kmpl, 168 bhp",
+            "price": "Rs. 25.04 Lakh"
+        },
+        {
+            "variant_name": "Harrier Fearless Plus Dual Tone AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 25.89 Lakh"
+        },
+        {
+            "variant_name": "Harrier Fearless Plus Dark Edition AT 1956 cc, Diesel, Automatic (TC), 14.6 kmpl, 168 bhp",
+            "price": "Rs. 26.44 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 18.47 Lakh onwards",
+        "Hyderabad": "Rs. 18.92 Lakh onwards",
+        "Bangalore": "Rs. 19.60 Lakh onwards",
+        "Mumbai": "Rs. 18.75 Lakh onwards",
+        "Ahmedabad": "Rs. 17.54 Lakh onwards",
+        "Kolkata": "Rs. 18.11 Lakh onwards",
+        "Chennai": "Rs. 19.41 Lakh onwards",
+        "Pune": "Rs. 18.89 Lakh onwards",
+        "Lucknow": "Rs. 18.09 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 15.49 Lakh onwards",
+        "Mileage": "14.6 to 16.8 kmpl",
+        "Engine": "1956 cc",
+        "Safety": "5 Star (Bharat NCAP)",
+        "Fuel Type": "Diesel",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

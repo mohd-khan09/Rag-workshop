@@ -1,0 +1,6 @@
+name: Hyundai New Santa Fe
+link: https://www.carwale.com/hyundai-cars/new-santa-fe/
+description: Hyundai New Santa Fe is a SUV which is expected to launch in India in Sep 2024 in the expected price range of Rs. 45.00  - 55.00 Lakh. 
+variants: []
+on_road_prices: {}
+specifications: {}

@@ -1,0 +1,34 @@
+{
+    "name": "Mercedes-Benz GLE",
+    "link": "https://www.carwale.com/mercedes-benz-cars/gle/",
+    "description": "The price of Mercedes-Benz GLE, a 5 seater SUV, ranges from Rs. 96.65 Lakh - 1.15 Crore. It is available in 2 variants, with engine options ranging from 1993 to 2999 cc and a choice of 1 transmission: Automatic. GLE has an NCAP rating of 5 stars and comes with 9 airbags. Mercedes-Benz GLE has a ground clearance of 215 mm  and is available in 5 colours. ",
+    "variants": [
+        {
+            "variant_name": "GLE 300d 4MATIC LWB 1993 cc, Mild Hybrid (Electric + Diesel), Automatic (TC), 265 bhp",
+            "price": "Rs. 96.65 Lakh"
+        },
+        {
+            "variant_name": "GLE 450d 4MATIC LWB 2999 cc, Diesel, Automatic (TC), 362 bhp",
+            "price": "Rs. 1.15 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.14 Crore onwards",
+        "Hyderabad": "Rs. 1.20 Crore onwards",
+        "Bangalore": "Rs. 1.20 Crore onwards",
+        "Mumbai": "Rs. 1.17 Crore onwards",
+        "Ahmedabad": "Rs. 1.08 Crore onwards",
+        "Kolkata": "Rs. 1.12 Crore onwards",
+        "Chennai": "Rs. 1.22 Crore onwards",
+        "Pune": "Rs. 1.17 Crore onwards",
+        "Lucknow": "Rs. 1.12 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Hybrid & Diesel",
+        "Engine": "1993 cc & 2999 cc",
+        "Power and Torque": "265 to 362 bhp & 550 to 750 Nm",
+        "DriveTrain": "AWD",
+        "Acceleration": "5.6 to 6.9 seconds",
+        "Top Speed": "230 to 250 kmph"
+    }
+}

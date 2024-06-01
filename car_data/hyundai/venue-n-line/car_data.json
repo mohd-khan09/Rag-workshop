@@ -1,0 +1,57 @@
+{
+    "name": "Hyundai Venue N Line",
+    "link": "https://www.carwale.com/hyundai-cars/venue-n-line/",
+    "description": "The price of Hyundai  Venue N Line, a 5 seater Compact SUV, ranges from Rs. 12.08  - 13.90 Lakh. It is available in 8 variants, with an engine of 998 cc and a choice of 2 transmissions: Manual and Automatic. Venue N Line comes with 6 airbags. Hyundai  Venue N Line is available in 5 colours. ",
+    "variants": [
+        {
+            "variant_name": "Venue N Line N6 MT 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 12.08 Lakh"
+        },
+        {
+            "variant_name": "Venue N Line N6 MT Dual Tone 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 12.23 Lakh"
+        },
+        {
+            "variant_name": "Venue N Line N6 DCT 998 cc, Petrol, Automatic (DCT), 118 bhp",
+            "price": "Rs. 12.87 Lakh"
+        },
+        {
+            "variant_name": "Venue N Line N8 MT 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 12.96 Lakh"
+        },
+        {
+            "variant_name": "Venue N Line N6 DCT Dual Tone 998 cc, Petrol, Automatic (DCT), 118 bhp",
+            "price": "Rs. 13.02 Lakh"
+        },
+        {
+            "variant_name": "Venue N Line N8 MT Dual Tone 998 cc, Petrol, Manual, 118 bhp",
+            "price": "Rs. 13.11 Lakh"
+        },
+        {
+            "variant_name": "Venue N Line N8 DCT 998 cc, Petrol, Automatic (DCT), 118 bhp",
+            "price": "Rs. 13.75 Lakh"
+        },
+        {
+            "variant_name": "Venue N Line N8 DCT Dual Tone 998 cc, Petrol, Automatic (DCT), 118 bhp",
+            "price": "Rs. 13.90 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 14.00 Lakh onwards",
+        "Hyderabad": "Rs. 14.87 Lakh onwards",
+        "Bangalore": "Rs. 14.87 Lakh onwards",
+        "Mumbai": "Rs. 14.22 Lakh onwards",
+        "Ahmedabad": "Rs. 13.70 Lakh onwards",
+        "Kolkata": "Rs. 14.09 Lakh onwards",
+        "Chennai": "Rs. 15.03 Lakh onwards",
+        "Pune": "Rs. 14.45 Lakh onwards",
+        "Lucknow": "Rs. 14.09 Lakh onwards"
+    },
+    "specifications": {
+        "Price": "Rs. 12.08 Lakh onwards",
+        "Engine": "998 cc",
+        "Fuel Type": "Petrol",
+        "Transmission": "Manual & Automatic",
+        "Seating Capacity": "5 Seater"
+    }
+}

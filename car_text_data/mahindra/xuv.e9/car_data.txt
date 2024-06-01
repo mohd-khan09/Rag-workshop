@@ -1,0 +1,6 @@
+name: Mahindra XUV.e9
+link: https://www.carwale.com/mahindra-cars/xuv.e9/
+description: None
+variants: []
+on_road_prices: {}
+specifications: {}

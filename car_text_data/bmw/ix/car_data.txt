@@ -1,0 +1,6 @@
+name: BMW iX
+link: https://www.carwale.com/bmw-cars/ix/
+description: The price of BMW iX, a 5 seater SUV, ranges from Rs. 1.21  - 1.40 Crore. It is available in 2 variants and a choice of 1 transmission: Automatic. iX comes with 8 airbags. BMW iX has a ground clearance of 906 mm  and is available in 7 colours. Users have reported a driving range of 635 Km for iX.
+variants: [{'variant_name': 'iX xDrive 40 76.6 kWh, Electric, Automatic', 'price': 'Rs. 1.21 Crore'}, {'variant_name': 'iX xDrive 50 111.5 kWh, Electric, Automatic, 635 Km', 'price': 'Rs. 1.40 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 1.26 Crore onwards', 'Hyderabad': 'Rs. 1.46 Crore onwards', 'Bangalore': 'Rs. 1.30 Crore onwards', 'Mumbai': 'Rs. 1.29 Crore onwards', 'Ahmedabad': 'Rs. 1.35 Crore onwards', 'Kolkata': 'Rs. 1.28 Crore onwards', 'Chennai': 'Rs. 1.28 Crore onwards', 'Pune': 'Rs. 1.28 Crore onwards', 'Lucknow': 'Rs. 1.28 Crore onwards'}
+specifications: {'Fuel Type': 'Electric', 'DriveTrain': 'AWD', 'Acceleration': '4.6 to 6.1 seconds', 'Top Speed': '200 kmph'}

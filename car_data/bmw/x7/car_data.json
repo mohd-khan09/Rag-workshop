@@ -1,0 +1,33 @@
+{
+    "name": "BMW X7",
+    "link": "https://www.carwale.com/bmw-cars/x7/",
+    "description": "The price of BMW X7, a 6 seater SUV, ranges from Rs. 1.30  - 1.34 Crore. It is available in 2 variants, with engine options ranging from 2993 to 2998 cc and a choice of 1 transmission: Automatic. X7 comes with 8 airbags. BMW X7 has a ground clearance of 221 mm  and is available in 4 colours. Users have reported a mileage of 11.29 to 14.31 kmpl for X7.",
+    "variants": [
+        {
+            "variant_name": "X7 xDrive40i M Sport 2998 cc, Mild Hybrid(Electric + Petrol), Automatic (TC), 11.29 kmpl, 375 bhp",
+            "price": "Rs. 1.30 Crore"
+        },
+        {
+            "variant_name": "X7 xDrive40d M Sport 2993 cc, Mild Hybrid (Electric + Diesel), Automatic (TC), 14.31 kmpl, 335 bhp",
+            "price": "Rs. 1.34 Crore"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 1.50 Crore onwards",
+        "Hyderabad": "Rs. 1.65 Crore onwards",
+        "Bangalore": "Rs. 1.65 Crore onwards",
+        "Mumbai": "Rs. 1.54 Crore onwards",
+        "Ahmedabad": "Rs. 1.42 Crore onwards",
+        "Kolkata": "Rs. 1.50 Crore onwards",
+        "Chennai": "Rs. 1.66 Crore onwards",
+        "Pune": "Rs. 1.54 Crore onwards",
+        "Lucknow": "Rs. 1.50 Crore onwards"
+    },
+    "specifications": {
+        "Fuel Type": "Hybrid",
+        "Engine": "2993 cc & 2998 cc",
+        "Power and Torque": "335 to 375 bhp & 520 to 700 Nm",
+        "DriveTrain": "AWD",
+        "Acceleration": "5.8 to 5.9 seconds"
+    }
+}

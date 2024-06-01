@@ -1,0 +1,6 @@
+name: Audi Q8
+link: https://www.carwale.com/audi-cars/q8/
+description: The price of Audi Q8, a 5 seater SUV, ranges from Rs. 1.07  - 1.43 Crore. It is available in 2 variants, with an engine of 2995 cc and a choice of 1 transmission: Automatic. Q8 has an NCAP rating of 5 stars and comes with 8 airbags. Audi Q8 is available in 9 colours. Users have reported a mileage of 9.8 kmpl for Q8.
+variants: [{'variant_name': 'Q8 Celebration 2995 cc, Petrol, Automatic (TC), 9.8 kmpl, 335 bhp', 'price': 'Rs. 1.07 Crore'}, {'variant_name': 'Q8 55 TFSI quattro 2995 cc, Petrol, Automatic (TC), 9.8 kmpl, 335 bhp', 'price': 'Rs. 1.43 Crore'}]
+on_road_prices: {'Delhi': 'Rs. 1.24 Crore onwards', 'Hyderabad': 'Rs. 1.33 Crore onwards', 'Bangalore': 'Rs. 1.48 Crore onwards', 'Mumbai': 'Rs. 1.27 Crore onwards', 'Ahmedabad': 'Rs. 1.18 Crore onwards', 'Kolkata': 'Rs. 1.24 Crore onwards', 'Chennai': 'Rs. 1.35 Crore onwards', 'Pune': 'Rs. 1.27 Crore onwards', 'Lucknow': 'Rs. 1.24 Crore onwards'}
+specifications: {'Fuel Type': 'Petrol', 'Engine': '2995 cc', 'Power and Torque': '335 bhp & 500 Nm', 'DriveTrain': 'AWD', 'Acceleration': '5.9 seconds', 'Top Speed': '250 kmph'}

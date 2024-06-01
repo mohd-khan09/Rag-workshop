@@ -1,0 +1,55 @@
+{
+    "name": "Maruti Ciaz",
+    "link": "https://www.carwale.com/maruti-suzuki-cars/ciaz/",
+    "description": "The price of Maruti Ciaz, a 5 seater Sedan, ranges from Rs. 9.40  - 12.45 Lakh. It is available in 9 variants, with an engine of 1462 cc and a choice of 2 transmissions: Manual and Automatic. Ciaz has an NCAP rating of 4 stars and comes with 2 airbags. Maruti Ciaz has a ground clearance of 170 mm  and is available in 10 colours. Users have reported a mileage of 20.04 to 20.65 kmpl for Ciaz.",
+    "variants": [
+        {
+            "variant_name": "Ciaz Sigma 1.5 1462 cc, Petrol, Manual, 20.65 kmpl, 103 bhp",
+            "price": "Rs. 9.40 Lakh"
+        },
+        {
+            "variant_name": "Ciaz Delta 1.5 1462 cc, Petrol, Manual, 20.65 kmpl, 103 bhp",
+            "price": "Rs. 10.00 Lakh"
+        },
+        {
+            "variant_name": "Ciaz Zeta 1.5 1462 cc, Petrol, Manual, 20.65 kmpl, 103 bhp",
+            "price": "Rs. 10.40 Lakh"
+        },
+        {
+            "variant_name": "Ciaz Delta 1.5 AT 1462 cc, Petrol, Automatic (TC), 20.04 kmpl, 103 bhp",
+            "price": "Rs. 11.10 Lakh"
+        },
+        {
+            "variant_name": "Ciaz Alpha 1.5 1462 cc, Petrol, Manual, 20.65 kmpl, 103 bhp",
+            "price": "Rs. 11.19 Lakh"
+        },
+        {
+            "variant_name": "Ciaz Alpha 1.5 Dual Tone 1462 cc, Petrol, Manual, 20.65 kmpl, 103 bhp",
+            "price": "Rs. 11.35 Lakh"
+        },
+        {
+            "variant_name": "Ciaz Zeta 1.5 AT 1462 cc, Petrol, Automatic (TC), 20.04 kmpl, 103 bhp",
+            "price": "Rs. 11.50 Lakh"
+        },
+        {
+            "variant_name": "Ciaz Alpha 1.5 AT 1462 cc, Petrol, Automatic (TC), 20.04 kmpl, 103 bhp",
+            "price": "Rs. 12.29 Lakh"
+        },
+        {
+            "variant_name": "Ciaz Alpha 1.5 AT Dual Tone 1462 cc, Petrol, Automatic (TC), 20.04 kmpl, 103 bhp",
+            "price": "Rs. 12.45 Lakh"
+        }
+    ],
+    "on_road_prices": {
+        "Delhi": "Rs. 10.55 Lakh onwards",
+        "Hyderabad": "Rs. 11.32 Lakh onwards",
+        "Bangalore": "Rs. 11.23 Lakh onwards",
+        "Mumbai": "Rs. 10.85 Lakh onwards",
+        "Ahmedabad": "Rs. 10.43 Lakh onwards",
+        "Kolkata": "Rs. 10.83 Lakh onwards",
+        "Chennai": "Rs. 10.96 Lakh onwards",
+        "Pune": "Rs. 10.91 Lakh onwards",
+        "Lucknow": "Rs. 10.60 Lakh onwards"
+    },
+    "specifications": {}
+}
