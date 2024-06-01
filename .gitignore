@@ -1,3 +1,4 @@
 # Ignore the .env file containing environment variables
 .env
 Rag-workshop/
+Rag-workshop/
